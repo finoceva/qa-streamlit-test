@@ -1,0 +1,962 @@
+{
+    "queries": {
+        "49a0803c-1408-4220-99f6-d49c1874e257": "What is the purpose of the Installation, Operation & Maintenance Manual for the RS-B compressor?",
+        "24fc1ed9-8d75-4d0e-8b33-876011a40908": "How is the manual structured and how should it be used?",
+        "826e74a7-36b6-45f6-ace5-f49c69d75a30": "What are the intended usage and potential misuse of the compressor?",
+        "3ae675ff-a4d6-48f3-8ef8-771442790572": "What are the requirements of the user when operating the compressor?",
+        "68710c5c-b96b-4a58-9558-87594db2fadb": "What are the personnel responsibilities when it comes to the compressor?",
+        "49b1c9bf-1c01-4bf0-945b-623258b7ad26": "What are some basic safety advice and accident conduct guidelines mentioned in the manual?",
+        "7b21291c-a0a6-4a26-91f0-ab491c9de1a8": "What are the authorized access points and safety devices of the compressor?",
+        "30bc1cde-404d-458f-8655-d4a14cc01a65": "What are the different control instrumentation options available for the compressor?",
+        "1650a89d-9e6b-40bf-8a0d-36f9f72a0d2c": "How should the compressor be installed and put into operation?",
+        "5f667f1c-7091-4d45-b4ca-11c314dbcb91": "What are the maintenance tasks and procedures mentioned in the manual?",
+        "a7bd0a79-f4ac-4be9-a4a4-71d513537e41": "What is the purpose of this manual and how should it be maintained?",
+        "2966e189-2e61-4d9c-9785-c9430f64d8f5": "What are the consequences of removing pages from this manual without replacing them?",
+        "550b943a-c6f8-4f53-9386-6bc87d980627": "What restrictions are placed on the duplication or modification of the copyrighted information in this manual?",
+        "34e4d7f4-207f-4d83-b0ae-20e4d79c9c4d": "What should be done if modifications are made to the compressor without the manufacturer's agreement?",
+        "7dd836f2-d02a-4a17-a04a-fb2eb9dcc494": "What documents from suppliers are included in this manual and why are they important?",
+        "0e413ca4-32bd-4d96-827d-a7a010f5c277": "How is this manual structured and what information is included in each chapter?",
+        "3fd1758e-e37c-4f92-83c6-dd7e0ebdb2c4": "How are the pages in this manual numbered and what does a specific page number signify?",
+        "1de576ab-bee2-4e02-9720-28e52fa0765a": "Who is considered an authorized person to work on or with the compressor and what precautions should be taken?",
+        "9497ab21-11f6-42ef-b28c-b7ed5b76a8ba": "What are the recommended usage guidelines for the compressor in terms of the air being compressed and the ambient temperature?",
+        "c67dd765-1130-4746-934f-2689f347e5f6": "What are the requirements for using the compressor according to the manufacturer's recommendations?",
+        "91a1ecfe-2742-4f0b-b02f-938d5c708b3a": "What is considered misuse of the compressor?",
+        "79b3bd73-83fc-4dac-9d24-f57553de313a": "What responsibilities does the user have when operating the compressor?",
+        "98f78cfb-1179-403d-b56e-7b58c331c235": "What personal protective equipment should be available for operating, servicing, and maintaining the compressor?",
+        "9cd368da-9129-4179-81ad-bdffcadc307a": "What responsibilities does the operating company have in terms of safety procedures and the availability of the manual?",
+        "d7f630b9-1ae8-40ec-be8b-c3169fa2009e": "What duties should personnel carry out when operating the compressor?",
+        "26a8d917-38ad-464c-ac31-c1d5fd84fe6c": "What qualifications are required for maintenance personnel?",
+        "fa7124d0-bf41-4c67-92f7-a5c14d063699": "What is the purpose of the safety advice chapter in the manual?",
+        "6b702e3e-e61d-4d87-9814-a20eb30125bb": "How should the safety advice in the manual be used in relation to national safety accident prevention rules and laws?",
+        "19f8c39d-90eb-4377-9f2f-03d6b4441eac": "Why is it important to adhere to existing accident prevention rules and regulations at all times?",
+        "c1f614d1-1853-48b3-a119-53ee9f8031dc": "What is the purpose of the safety advice chapter in the manual?",
+        "5a5e951b-c6dd-4657-a61f-4fda6cd341b7": "What are the recommended safety measures to prevent physical injury and damage to the compressor?",
+        "ab9660e9-6ecd-4a22-a0c8-6aa82ed5784e": "How should the oil filler cap be handled when topping up or changing oil to avoid burns?",
+        "bb453c1a-6942-4e96-a94d-4d2640d46fe1": "What precautions should be taken when working with compressed air to prevent severe injuries?",
+        "88bccca0-e46e-4129-b60e-b3222c0e6ca0": "What actions should be taken in case of an accident involving injured people or damage to property?",
+        "70e94d59-4473-405a-9e73-528886ef7686": "What information should be included in a list at the workplace for emergency situations?",
+        "72db6bb8-c0c3-4791-a924-810c57e42167": "What should you do in the event of a fire disaster?",
+        "f1add9b1-2ae3-4b2f-92e2-8bb913c31c7a": "Who should you inform immediately if there are injuries or damage to people, equipment, or buildings?",
+        "4a2a1bdf-685d-45f0-b74e-065952be15cf": "What does Chapter 2 of the document cover?",
+        "ee49a9e7-c8ed-413e-a939-363dfc670c3d": "What are the authorized access points for operating the compressor?",
+        "523e38fc-c133-437f-a663-92a976d289f0": "Who is allowed to work on the switch box and electrical installations?",
+        "0ad8102f-75c9-42df-af66-ac3bb6af0f95": "What actions are permitted at the control panel access point?",
+        "b11c01f5-3752-4d26-9b4f-eea5ac9f652d": "What is the function of the emergency stop device?",
+        "6032bf87-4f75-48e0-8891-7f329939397a": "Who should open the electric panel door on the control box?",
+        "1e05a296-fadf-43e6-9e6b-099b3da31a55": "What components can be seen after removing the front walls of the compressor?",
+        "09d975fb-22cd-4174-9a95-9a790de8b585": "In which direction does the air end rotate?",
+        "bfdc159f-0752-42ee-bc28-7b51eed64493": "What is the purpose of the suction air filter in the compressor unit?",
+        "5d29d0a6-aaa8-4e3e-948c-016418167d61": "How is the direction of rotation of the air end determined?",
+        "39ea1254-0d52-4b18-ac85-d91cf0047833": "What are the functions of the pressure switch in the compressor unit?",
+        "08460d35-9920-4c36-9fb8-35373359f270": "What is the role of the suction regulator in controlling the air volume sucked in by the compressor?",
+        "819c1e4b-9ab1-4e13-9c3c-1bc1b3aff2cd": "Explain the tasks performed by the minimum pressure valve in the compressor unit.",
+        "9791d732-c457-4962-91cb-69051de41bec": "How does the oil separator cartridge function in the compressor unit?",
+        "a8da1aa7-f09e-41d1-9eec-5ea5303742c7": "What is the significance of the oil return scavenge window in the compressor unit?",
+        "7eb3439c-2188-4c0f-8186-f2dd5b326a5b": "How does the oil scavenge non-return valve prevent flooding of the oil separator cartridge?",
+        "842d0ed8-86d7-4bf0-9c10-beffd0b2dbaf": "What is the purpose of the oil filter in the compressor unit?",
+        "7e7c3a97-af63-4619-b9b3-8d7ca5f2443f": "Who is authorized to adjust the pressure switch and rectify problems related to the compressor unit?",
+        "2bd7683b-1f7b-4448-85b5-4e6f99b0786f": "What is the function of the oil scavenge non-return valve in the compression unit?",
+        "d3a29d46-86c0-402d-b34a-06e345a982ca": "How does the oil filter clean the compressor oil from impurities?",
+        "14c961fe-721c-4ca3-836a-280508e463b7": "What is the purpose of the Combistat in the compression unit?",
+        "a84ecf04-504b-4903-8bd4-2b350819d7ee": "What is the function of the safety valve in the compression unit?",
+        "243015b9-af3c-4f3d-9d1a-eef70aba5418": "Describe the function of the start button on the instrumentation panel.",
+        "1cc207fd-2124-4de6-bf11-9e5ce73c13f8": "How does the Combistat temperature indicator monitor the operating temperature of the unit?",
+        "4d2b9c7f-bb00-4325-ae62-0c7ad6f8bcb9": "What are the main features of the RENNERtronic control in the compressor?",
+        "a24e9129-71b7-4067-8e59-84095382e421": "Explain the function of the LED (red) on the RENNERtronic plus control.",
+        "0eafe2c3-0d46-41ef-af02-06e711901207": "How does the RENNERtronic plus control monitor and control the workings of the compressor?",
+        "de77e9ab-074a-4d2c-a9a3-9a6cf3668787": "What is the role of the emergency stop button on the instrumentation panel?",
+        "881b7cc0-fd08-4f5b-b333-f866f218b49c": "What are the functions of the \"RENNERtronic plus\" control's multiple function keys?",
+        "fef64ad6-d016-4182-8ee5-319c62550299": "What precautions should be taken when working with the refrigerant drier?",
+        "96239ca6-1942-4b89-9f6b-4acb3e9d08d8": "How does the refrigerant drier cool the compressed air and remove moisture?",
+        "0a2819dc-e186-46a9-9ea4-eda4f023fc29": "What important information is provided in Chapter 3 of the document?",
+        "be0fbfad-abc3-47cf-9dec-b7c205e9921a": "What are the recommended installation site requirements for the compressor?",
+        "22900efa-60eb-4f5c-b31d-1482fa43b20f": "What are the key requirements for the installation site of the compressor?",
+        "07c79be0-87fc-49de-8162-fcf97096cada": "Why is it important to secure loose parts before lifting the compressor?",
+        "72f60956-b233-48dd-87a8-0ab4a29ae870": "What should be done with blank flanges, stoppers, covers, and bags with drying agents before mounting conduits?",
+        "6b32b9ce-6500-45f9-a19f-8e9794f57bb5": "How should the exhaust air duct be designed and what precautions should be taken when installing multiple compressors?",
+        "07eb8a98-d11e-4400-9f31-d7e9d7a29c2d": "What should be checked before connecting the machine to the compressed air system?",
+        "fd2a445b-46d0-49d6-aff2-4c7d7febe2f4": "Why is an acceptance check of the air collection tank necessary for plants with pressure tanks?",
+        "aa2dd6b6-f70d-435a-a711-614d7b61ae52": "What precautions should be taken when connecting the compressor to the compressed air system?",
+        "2563b175-d2df-4872-8290-0a9631d7239f": "Why is the installation of a shut-off valve recommended for the compressor?",
+        "90eb28be-b02d-4eac-8e6c-e428736f1154": "What can be integrated behind the after cooler to improve condensate separation from the compressed air?",
+        "a9004367-8fea-4d20-817e-7dc45461fa1a": "Who should be responsible for connecting the machine to the mains supply?",
+        "518c7dab-5f7e-4e38-85ff-71194b61c42f": "What are the 5 safety rules that need to be considered when carrying out wiring work on the controls and compressor?",
+        "e65d8fd2-a872-41e0-ade1-0e808f77300a": "Who should connect the machine to the electricity supply?",
+        "4ff50c4e-31ac-45d0-b322-4e0d7de11780": "What must be observed when connecting the machine to the mains supply in terms of voltage and rotation?",
+        "cb7105ef-c5a6-4f57-b73a-fed69c3c5409": "What is the purpose of the main fuse and circuit breaker with the EMERGENCY STOP function?",
+        "2d053e65-c04a-4609-93c8-2e8f5659ace4": "How should the supply cable be situated to ensure there is no danger of tripping over it?",
+        "d468d74d-5e57-4775-9d24-dc1465f2f4e4": "Why is it important to read and observe the operating manuals for machines with additional optionally installed components?",
+        "70bf33c9-9b1c-4c69-aefc-ba2fafc1bf8b": "What tasks should be carried out before the first start-up of the machine?",
+        "ad3bd12c-bb4e-4915-8d02-b02c4598d9e9": "Why is it necessary to check the rotation of the screw compressor when first starting up the machine or after each change to the electrical feed line?",
+        "a539da69-8c7d-4068-b839-41e3d79ce7e2": "What precautions should be taken when checking the rotation of the screw compressor?",
+        "580104c7-9f00-4c3e-a85c-48a8e7101c7e": "Why is it important to carry out a test run to distribute the oil throughout the machine?",
+        "098ac19d-3172-4188-869b-8530e906866e": "What is the purpose of carrying out a test run in the compressor start-up process?",
+        "c3ed30fa-c9b0-46c8-9843-b55e67cbb0c3": "How many times should points 1 and 2 be repeated during the test run?",
+        "0bd1b6ea-4c93-4bb3-97f9-13dcb7872aa5": "What are the different sections covered in the chapter on operation/normal use of the compressor?",
+        "496a9d9e-7237-45b1-8d0b-13bd1bd2859f": "What is the function of the start button in the RENNERlogic control instrumentation?",
+        "497dae6a-a316-4c66-a5c4-65daa5d94071": "How does the RENNERtronic control instrumentation allow you to navigate through menu items and adjust parameter values?",
+        "932cf41d-e63a-4865-8285-965f51a502cd": "What is the function of the LED (red) in the RENNERtronic plus control instrumentation?",
+        "0622a917-6309-489f-a7b8-3c7d1f921fbc": "How does the RENNERtronic plus control instrumentation allow you to select menu items and confirm/save entries or changes?",
+        "05316d96-3d65-4827-b072-df5ff58adefb": "What information is displayed on the first line of the display in the RENNERtronic control instrumentation?",
+        "decef532-7934-477a-96ef-6fdbc857e2d1": "What is the purpose of the LED (green) in the RENNERtronic plus control instrumentation?",
+        "eebcd2aa-98b6-4aef-8eae-1efd35f823ad": "How does the RENNERtronic plus control instrumentation allow you to navigate through menu items and adjust parameter values?",
+        "084113c8-3204-4313-9a35-3b344b756b0e": "What are the functions of the LED lights on the RENNERtronic plus control instrumentation?",
+        "a6bff2cf-6fbf-4c92-b817-fd48c96f867a": "Why is it important to never operate the compressor with the housing open?",
+        "071df057-5ede-494e-a2d6-f10c602b016b": "What are the three points that need to be monitored during compressor operation?",
+        "35daf77b-c3d2-4a5e-b912-04bf35dbdd04": "What should be done if the working pressure exceeds the maximum permissible value?",
+        "3d4cb8dc-b30c-4be7-a9d9-cad74dfef0d3": "What is the maximum temperature that the oil and operating temperature should not exceed?",
+        "7ca17d86-7c9b-4ff6-bfb6-c22a7aad92fa": "What maintenance work needs to be carried out after a specified number of operating hours?",
+        "d2a55316-4838-4ee0-822b-c065a3e2d320": "What are the steps to switch off the compressor in normal operation?",
+        "59125973-5d17-491a-9947-ef53faf15237": "Why is it important to ensure that the follow-on time is not shorter than the pre-adjusted time when switching off the compressor?",
+        "94c2ee90-b971-43ce-811e-cd911273626c": "What additional step should be taken to completely shut off the compressor after completing work?",
+        "e402e520-dd35-4a14-8d80-6957ba8fe88e": "What are the possible consequences of shutting off the compressor using the red emergency stop button?",
+        "f204ca53-b207-4dc7-a0a3-e1a54d76e81c": "What are the steps that should be taken before starting any work on the compressor?",
+        "313d1329-2476-437b-8cdb-6f7562227c27": "What are the possible causes and remedies for oil in the compressed air in the compressor system?",
+        "84b8efab-f91b-446e-8f59-5e27f0d12e76": "How can you rectify the issue of the compressor not venting during continuous operation or not cutting out during intermittent operation?",
+        "cb650fc6-0302-4667-8819-8e54da96e66d": "What are the possible causes and remedies for the compressor venting continuously with low volumetric capacity?",
+        "dcff5852-e1f8-41ae-93cf-c07b6e792efb": "How can you address the issue of non-existent or insufficient discharge capacity in the compressor system?",
+        "f46dfd02-31bb-43d1-aeda-63cbcf54ae9e": "What could be the reasons for the intake regulator not closing at discharge pressure and how can you fix it?",
+        "82d39bc9-a448-4286-b06c-8f3f2b744668": "What could be the cause of the pressure vessel not depressurizing and how can you resolve it?",
+        "499a400d-df12-4de9-863e-df5730e2587b": "How can you address the issue of oil in the compressor and oil mist on venting?",
+        "6cdc0be3-5ab1-4157-b1b8-c6e39ecd2dc0": "What are the possible causes and remedies for a noisy running system in the compressor?",
+        "bbe597f0-cf7d-4ff8-9246-ffef2885d5a3": "What precautions should be taken into account during servicing and maintenance work on the compressor system?",
+        "89fce12c-05ca-47b3-9c78-894234c863ed": "Who is qualified to carry out servicing and maintenance work on the compressor system and where can you find the specific personnel requirements?",
+        "1f3447c8-0bd8-409b-a5b2-997c93efb49a": "What are the potential risks of personal injury or death that should be avoided during servicing and maintenance work?",
+        "c2d230a5-439b-4003-8ec2-270054a8003a": "According to the document, what steps should be carried out after completing maintenance work?",
+        "5552e885-b1ae-4741-8e16-d0ddeaae83f5": "Why is it important to use genuine spare parts when replacing components in the machine?",
+        "c10a6181-dd03-4510-9b68-f6472312c4dc": "Who should be allowed to carry out repair work on the machine, according to the document?",
+        "656043c1-0623-4750-b434-bbc00656041a": "What precautions should be taken when carrying out servicing work, according to the document?",
+        "9e8c93c1-d5ac-4513-b8d9-031f938aedd6": "What precautions should be taken before carrying out welding or other heat-based work near the oil system?",
+        "0368f128-ba72-49f3-a51c-83d8ce2013d4": "Why is it important to check the operating pressures, temperatures, time settings, control equipment, and cut-out devices before releasing the unit for operation after maintenance work?",
+        "f5cc3767-aa93-4235-9337-bc8a8038fe29": "What safety measures should be followed when switching on the unit, including for a test run?",
+        "426d606b-5108-4f5d-abe7-322a6fb87f02": "How should the compressor system be vented before servicing and maintenance work?",
+        "4c215306-3513-4c4e-ac18-b9d07c844b52": "What risks should be considered when handling the oil filler plug during venting?",
+        "2d826906-f2bd-4f79-9702-92716df841d3": "What steps should be followed to safely vent the unit and relieve all pressure?",
+        "6596da20-92fc-4430-83bd-954e59206bc7": "What cleaning methods are recommended for the compressor and air filter?",
+        "530915f6-1714-4a79-a1ab-25b714a58cc9": "Why is it important to regularly check and clean the intake passage of the unit?",
+        "819e69ec-69a5-4cea-8b37-1f37ec89f7bf": "What precautions should be taken when using compressed air from the unit?",
+        "e5d348b5-a0d1-453b-9b33-223c85abf158": "What steps should be followed to clean the air filter and ensure proper functionality?",
+        "0b70de90-7499-4649-9d0c-e0a8cbbe5e24": "What are the steps involved in cleaning the air filter of the compressed air unit?",
+        "1108e611-4d4a-479f-83d8-f6e29a8c875d": "Why is it important to regularly check the oil level in the compressor?",
+        "a8ff395f-4d5d-41d0-802c-cd107e5aab1d": "How can you determine the minimum and maximum oil levels in the oil sight glasses?",
+        "4f15a33f-ee38-478e-ba35-47cac5c3e4f8": "What precautions should be taken before changing the oil filter of the unit?",
+        "24e5d377-5de4-4bb4-b13c-11b07395db4a": "What type of oil is recommended for the unit and why is it important to use oil of the same make and grade?",
+        "60b1edc0-7ea4-4766-96cd-c39c97684c93": "What safety instructions should be followed when venting the unit?",
+        "cdec596d-19a0-4e0f-8da2-62996c7b03b4": "How should the oil be drained from the compressor block during an oil change?",
+        "8c565d77-1141-45f1-8126-7a2907a92824": "What is the recommended grade of oil to be used for the RENNER V DL ISO 68 compressor unit?",
+        "cef857ac-2fc5-437b-b95f-3554aaa98aa3": "Why is it important to not mix oils of different kinds in the compressor unit?",
+        "726fffe7-1bdd-40e6-9ea4-04c389cf79e8": "What are the steps involved in changing the oil in the compressor block?",
+        "da285df9-a2fe-4588-b810-d453935ec244": "How should the unit be prepared before cleaning the oil scavenger sight gauge?",
+        "80752e43-2b14-4d0d-9578-0495106d6391": "What is the procedure for cleaning the oil cooler in the compressor unit?",
+        "9d54fee3-6acd-4f93-9dc6-7b3120706a27": "When should the safety valve be checked and how should it be done?",
+        "89dd2d7c-5ad8-4b28-ba8f-c8d0054bd364": "How can the V-belt tension be adjusted in the compressor unit?",
+        "d717730c-c9dd-466e-9fc3-b59c1c7af950": "What safety precautions should be taken when performing the steps outlined in the document?",
+        "66ce9b6a-a229-4b0c-9f87-911d6c0e267a": "What are the recommended measures to be carried out before putting a decommissioned compressor unit back into operation after being stored for more than 3 months?",
+        "ba9b1a10-1b53-438b-81c0-2116bd02c27f": "How should the screw compressor be turned before re-commissioning it after being out of commission for 3 months or more?",
+        "68d6d75a-89fd-49e3-b296-bd3f6bcb8c56": "What should be done with the air inlet filter and manifold before re-commissioning a decommissioned compressor unit?",
+        "1b10aa4e-66f1-4f9f-bed2-96b9684f81a1": "How should the oil level be checked and filled if necessary before re-commissioning a decommissioned compressor unit?",
+        "2cf59ab0-c74d-4157-9cbd-f33659684cae": "What steps should be followed to re-adjust the V-belt before re-commissioning a decommissioned compressor unit?",
+        "d3d158b1-0d5b-4eed-b4e0-ec1800422c8f": "What precautions should be taken when shutting down and disposing of a compressor unit?",
+        "f3045a60-dba3-4163-88b1-63d972d5f400": "What materials were predominantly used in the construction of the compressor unit?",
+        "51a47665-a072-49e7-bf6c-68eb8d956789": "How should the components of the compressor unit be depressurized and vented before disassembly?",
+        "f758f70b-b95d-4dce-ac41-965d5cbbfb2c": "What parts, materials, and fluids of the compressor unit need to be disposed of separately?",
+        "2968127c-b897-4fe6-bb53-b400fb51bb0f": "How should all parts of the compressor unit be disposed of to prevent damage to people's health and the environment?",
+        "78868595-07c7-4b42-9f68-732ecb6f4510": "What are the dimensions and weight of the RENNER RS-B 7.5 screw compressor?",
+        "01d2bbdd-d00f-4194-9ed6-a91fcc6c79b3": "How does the RENNER RS-B 2.2 screw compressor cool its air?",
+        "2aa78ead-bc3b-4bc6-a0c8-702a656323de": "What is the nominal power of the RENNER RSK-B 11 screw compressor?",
+        "aaa91e71-e095-432f-9c31-dcfa3471c7c2": "According to the EC Declaration of Conformity, what guidelines does the RENNER screw compressor meet?",
+        "11a8a1e1-0c08-4b9e-8418-dd20ebb3fab9": "How does the RENNER RSD-B differ from the RSDK-B screw compressor?",
+        "098feaa5-c4b3-4aee-ba3d-772bb90e68a2": "What is the start noise level of the RENNER RS-B 3.0 screw compressor?",
+        "d2aaf3d5-d830-4ffa-9b15-84c08a4ef756": "How much oil does the RENNER RS-B 4.0 screw compressor require?",
+        "7615fbb1-cd55-4bfd-a4ae-8ddf19bcda44": "What is the outlet connection size for the RENNER RSK-B 5.5 screw compressor?",
+        "446fef8d-fcaa-4921-84b2-3fe9d624f796": "What is the free air delivery of the RENNER RS-B 5.5 screw compressor at 7.5 bar?",
+        "712b25da-3950-422d-b1f4-fedb3da182c6": "How does the RENNER screw compressor prevent damage to the environment during disposal?",
+        "07e7b7b0-cbbf-467d-9eb4-2225a06c7643": "According to the series/type description, what is the power range of the screw compressor?",
+        "b92d451a-8f05-41d4-a59c-814bf42db737": "What is the purpose of the screw compressor mentioned in the description?",
+        "5c96dbf1-27f9-4fcf-adf0-abda7ca8a353": "Which EU directives were applied in the design and manufacturing of the screw compressor?",
+        "7ddd3578-8add-43ec-887d-5d3adc4eda87": "What are the harmonized standards that were applied to ensure the safety and compliance of the screw compressor?",
+        "98045519-6cec-4201-93fd-c7f8b087509e": "Who is the authorized person responsible for compiling the technical documentation of the screw compressor?",
+        "a017a790-5058-4aa1-befd-a75f5a38d271": "What is the address of RENNER GmbH Kompressoren, the company responsible for the screw compressor?",
+        "4f588a4d-bbe3-4e54-9855-1f89bc3c9b9d": "Which guideline does the screw compressor meet, and what other guidelines are followed?",
+        "0f5ca7e6-494d-4223-b9b7-9e1f49cfc66b": "What is the pressure range of the compressed air generated by the screw compressor?",
+        "e16c9027-b7d4-46ea-8bd3-174ed96fa99f": "What is the purpose of the EMC directive mentioned in the document?",
+        "f9676db4-38b3-4597-b68c-d80de9ebd897": "What is the purpose of the RoHS directive mentioned in the document?",
+        "1bd60e46-c3ec-4a1f-bf13-09f2aeddd4c5": "What are some tasks that need to be completed in the commissioning report?",
+        "4e56a08c-4aec-4db5-af09-d49b3e6f859c": "How should the V-belt tension and wear be checked?",
+        "5606ff7d-6283-4d9d-aedf-b915dcfdf0f9": "What should be done to ensure the compressor has no leaks?",
+        "557867a9-e787-4d8a-afc8-88a590b547ea": "What maintenance tasks should be performed on the air filter element?",
+        "ae7e6db5-194a-4fb8-b0ed-a9c44330f26c": "How often should the condensate water be emptied for compressors with air receivers?",
+        "107ebb29-60cd-4cd3-b134-d071fc39207e": "What should be checked and adjusted if necessary in the ON and OFF settings?",
+        "2665b903-d2e6-41b7-bcfc-cb28394bfbb8": "What is the purpose of the fine separator cartridge and when should it be changed?",
+        "4a5c0510-432a-4ed6-b431-d6c2d1b9b3e8": "What maintenance tasks are included in Maintenance Package 1?",
+        "919662c5-5ff0-49e1-b149-be8ef24a91f2": "How should the alignment of the V-belt pulleys be checked?",
+        "6582473f-0931-4672-9e10-6743e8436b33": "What should be done to ensure the safety valve is in proper working condition?",
+        "05abf491-1fdb-4217-b8a4-b7112ef08f4c": "What are some of the maintenance tasks listed in the commissioning report?",
+        "99d00d4c-355d-4c56-98a9-fb4979b8c97c": "How often should the screw connections be checked and tightened if necessary?",
+        "8026ed77-8b0d-4341-a292-ae7589ed04b0": "What should be checked to ensure the V-belt is in good condition?",
+        "34508af8-4891-4104-bf09-cb8bd2cc6d57": "What is the purpose of emptying the condensate water in compressors with air receivers?",
+        "762df2ac-3e9a-49f2-b1b9-994234b7c249": "How should the hoses be examined to ensure they are in good working condition?",
+        "4d67e716-7c2b-4e38-ac3e-77ebff1b9e8f": "What should be done if the compressor has leaks?",
+        "e936870d-134b-4ee0-a6fb-3bb335e4d7ca": "What are some of the tasks involved in changing the oil in the compressor?",
+        "7cdf5b03-1eca-4a87-a40e-a4d07cd2e5ce": "How often should the follow-on time be checked and what is the minimum requirement?",
+        "1928264a-0ed2-414a-9d3a-7fdbc10ff180": "What is the purpose of replacing the O-ring on the oil filler plug?",
+        "3a484dc5-7fa3-49fc-a08c-6f11686951ab": "What maintenance tasks are involved in servicing the motor bearings?",
+        "f9cc0d93-863c-477d-83fe-4fd4fa0a9991": "What are the factors that may require adjusting the maintenance intervals for the motor bearings?",
+        "06ecbc16-01db-4f7e-930a-4505db8a1f37": "How should the old bearing be removed if it is difficult to pull out?",
+        "7fe86392-36b1-4632-97a1-fa3cd274d20d": "What type of grease should be used for re-lubricating the motor bearings?",
+        "441cbb69-fd1b-41c7-ab1b-f4197f2bdf2b": "What should be done if the motors are idle for a longer period of time?",
+        "50495932-e9d2-4864-97e2-f8528419bdb1": "When should the motor bearings be replaced if the motors are idle for more than 2 years?",
+        "e5780827-cbaa-4c92-bce2-4c87c7404919": "What is the recommended procedure for re-lubricating motor bearings if the motors have been idle for more than 6 months?",
+        "eca2b883-eded-4991-97f2-e958d820de3d": "What is the consequence of making changes to the default settings of the pressure switch without prior discussion with RENNER Kompressoren GmbH?",
+        "e42a697c-806f-42b6-b42d-5cc880b8b335": "How often should the motor shaft be rotated if the motors are idle for a longer period of time?",
+        "e0ff9212-ed26-4257-80d8-a5d3d227157a": "What is the required grease quantity for the motor bearings of a 90 kW WEG motor?",
+        "dbbcb383-d7ce-48da-b576-13377343bc69": "What safety precautions should be followed when operating the refrigerant drier?",
+        "8cfd16a5-60de-4368-ba4c-ecf969873da3": "What is the difference between switch-on and switch-off pressure for the refrigerant drier?",
+        "6b897645-1a03-4e79-9a84-2cbe31c2b7b2": "Why is it dangerous to breathe in the cooling steam or come in contact with the cooling agents of the refrigerant drier?",
+        "923ce938-9937-4923-992c-82a993180a47": "What does the refrigerant air drier contain to cool the compressed air and remove humidity?",
+        "fafb2452-cedf-42d3-ad6a-f08c12e2d602": "What precautions should be taken to ensure the air inlet and outlet of the refrigerant drier are not impaired or blocked?",
+        "34e8cbce-6687-4d52-bae3-46d71ba71833": "How long should you wait after turning on the refrigerant drier before starting the compressor?",
+        "d521e0c3-92a5-487a-b8c1-c9b732182575": "What does the green LED on the control panel of the refrigerant drier indicate?",
+        "1f15d6c7-d4f9-4cb2-8729-9a589a8c85cc": "What is the function of the setting switch on the control panel of the refrigerant drier?",
+        "a1714c02-6ef0-4426-8525-19d06465396a": "What maintenance work should be completed daily for the compressed air refrigerant drier?",
+        "f82ab5d4-774b-420d-a521-7096f68674b6": "Where can specific notes about other maintenance intervals and work for the refrigerant drier be found?",
+        "3a907db4-54a6-4ce8-8c66-f4a0dda1edba": "What is the purpose of the AD App Air receiver mentioned in the document?",
+        "667e3dc4-8d5f-45c1-8ba6-caa3ec9c98e2": "What are the daily maintenance tasks that need to be completed for the compressed air refrigerant drier?",
+        "a34cd442-be30-4609-bdc1-6f2e292e6195": "Where can specific notes about other maintenance intervals and work be found?",
+        "f7ff443d-ffde-4329-b0b8-b12003d9bfaa": "What is the function of the safety valve in the compressed air receiver?",
+        "2b50541c-ee31-47a4-aad6-b8bb0fdca280": "How often should the flexible hoses of the air receivers be changed?",
+        "9cd20b92-beba-43af-99df-104c909dedb7": "Why is it important to not let the pressure in the air receiver fall too low?",
+        "6900e0a7-c937-4fd6-b67f-afb468ecac39": "What is the purpose of the condensate drain in the compressed air receiver?",
+        "30108359-51b5-4ec2-a0ed-58fcbec0ccd7": "What should be checked for deviations from the normal range in the pressure dew point display?",
+        "0d9cd255-1b07-4639-ad04-14f6f69600d5": "What is the purpose of the steam trap in the maintenance of the compressed air refrigerant drier?",
+        "563f3c8e-2f0a-48f7-acb8-c1c497e6302d": "What measures should be taken for condensate discharge if there is no automatic system?",
+        "43e8ec9e-02ac-4e98-9b30-cb62987cf7a1": "What is the recommended maintenance interval for checking the compressor for contamination?"
+    },
+    "corpus": {
+        "node-0": "Please read carefully before commissioning and foll ow \ninstructions. Keep in a safe place for future use.  \n \n Installation, Operation & \nMaintenance Manual  \n \nRS-B \nRENNER GmbH Kompressoren \nEmil-Weber Str. 32 \nD-74363 Gueglingen \nTel:  +49 (0)7135 931 93 0 \nFax: +49 (0)7135 931 93 50 \ninfo@renner-kompressoren.de \nwww.renner-kompressoren.de  GB English Version V 06 / 2016 \n\n\n \nTable of contents                                             Content- I Table of contents  \nNr. Subject page \n0.1 General information 0-2 \n0.2 Structure and use of this manual 0-4 \n0.3 Intended usage / misuse 0-6 \n0.4 Requirement of the user 0-7 \n0.5 Personnel responsibilities 0-8 \n \n \n \nNr. Subject page \n1.1 Symbols 1-2 \n1.2 Basic safety advice 1-3 \n1.3 Accident conduct 1-6 \n \n \n \nNr Subject page \n2.1 Authorised access points 2-2 \n2.2 Safety devices 2-4 \n2.3 Compressor unit 2-5 \n2.4 Instrumentation panel RENNERlogic 2-9 \n2.5 RENNERtronic Control (optional) 2-10 \n2.6 RENNERtronic plus Control (optional) 2-11 \n2.7 Refrigeration dryer (optional) 2-12 \n \n \n \n \n \n Chapter  0 \nGeneral \ninformation \nChapter  1 \nSafety advice \nChapter  2 \nMachine \ndescription \n\n \nTable of contents                                             Content- II Table of contents (continuation) \nNr. Subject page \n3.1 Compressor installation 3-2 \n3.2 Connections 3-3 \n3.3 Putting into operation 3-5 \n \n \n \nNr. Subject page \n4.1 Control instrumentation RENNERlogic 4-2 \n4.2 Control instrumentation RENNERtronic 4-3 \n4.3 Control instrumentation RENNERtronic plus 4-5 \n4.4 Compressor startup / normal use 4-6 \n4.5 To stop the compressor 4-8 \n4.6 Failures during operation 4-10 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Chapter  3 \nInstallation & \nputting into \noperation \nKapitel 4  \nOperating / normal \nuse \n\n \nTable of contents                                             Content- III Nr. Subject page \n5.1 What to take into account 5-2 \n5.2 Remove faults 5-4 \n5.3 Venting the compressor system 5-5 \n5.4 Cleaning work 5-6 \n5.5 Checking oil level 5-7 \n5.6 Change of oil filter 5-8 \n5.7 Changing oil 5-9 \n5.8 Cleaning oil level sight glass 5-10 \n5.9 Cleaning oil cooler 5-11 \n5.10 Checking safety valve 5-12 \n5.11 Tensioning and changing drive belt(s) 5-13 \n \nNr. Subject page \n6.1 Decommissioning of plant 6-2 \n6.2 Re-commissioning after storage 6-4 \n6.3 Shut-down and disposal 6-5 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Chapter  5 \nMaintenance \nChapter  6 \nDecommissioning \nand disposal \n\n \nTable of contents                                             Content- IV Nr. Subject  \nAT Data sheet  \nACE CE Conformity Declaration  \nAW1 Maintenance check  \nAW2 Motor bearings  \nAW3 Maintenance work  \nADS Pressure switch  \nAKT Refrigeration dryer (optional)  \n Appendixes \n\n \n0 General Information  0 - 1  Chapter 0 \nGeneral Information \nHereunder you will find general information relatin g to the  \nfollowing subjects: \n\u0001 Utilisation of the INSTALLATION, OPERATION &  \nMAINTENANCE MANUAL \n\u0001 Compressor Operation and Usage \n\u0001 Personnel responsibilities \n \n \n \nThis chapter relates to the following subjects: \n \nNo.  Subject Page  \n0.1  General information 0-2 \n0.2  Structure and use of the manual 0-4 \n0.3  Intended Usage 0-5 \n0.4  Requirement of the user 0-6 \n0.5  Personnel responsibilities 0-7 \n \n \n Contents \nSurvey  \n \n\n \n0 General Information  0 - 2  0.1 General Information \nGeneral information regarding this manual.",
+        "node-1": "Subject Page  \n0.1  General information 0-2 \n0.2  Structure and use of the manual 0-4 \n0.3  Intended Usage 0-5 \n0.4  Requirement of the user 0-6 \n0.5  Personnel responsibilities 0-7 \n \n \n Contents \nSurvey  \n \n\n \n0 General Information  0 - 2  0.1 General Information \nGeneral information regarding this manual. \n \n \n \nThis manual is applicable to the following compress or: \n \nCompressor Detail Classification \nType Screw compressor  \nYear of construction  \nSerial number  \nModel  \nLocation  \n \n \nRENNER GmbH compressors \nEmil-Weber-Strasse 32 \nD-74363 Gueglingen \n \n \n \nJune 2016 \n \n \n\u0001 This manual should be kept in a clean safe conditio n and \nshould be readily available to authorised personnel  at all \ntimes. \n\u0001 Do not remove any pages from this manual. \nAny lost or mislaid pages should be replaced especi ally if \nthey relate to health and safety matters.  \n \nContinuation next page Contents \nValidity \nManufacturer \nDate of issue \nSafe -keeping and \ncompleteness \n\n \n0 General Information  0 - 3  0.1 General Information (Continuation) \nThis documentation contains copyrighted information . \nWithout prior consent of RENNER GmbH this informati on  \nmust not be photocopied, duplicated, translated or put on  \ndata carrier neither as a whole or part document.    \nRENNER GmbH reserves all further rights. \n \nFor safety reasons any modification or alteration m ay be  \npermitted only after having received the agreement of the man-\nufacturer. \nIf modifications are made without the prior agreeme nt of the \nmanufacturer all warrantees and manufacturers respo nsibilities \nwill be invalidated. \n \nIn these cases, the process for conformity evaluati on pursuant \nto 2006/42/EC for all components may need to be car ried out \nagain. \n \n \nThe following suppliers documents are part of this manual and \nmust be kept save and related to: \n \nDocuments for  manufacturer \nRENNERtronic  \ncontroller RENNER GmbH \nOperation manual  air \ndryer  RENNER GmbH \nD-74363 G\u00fcglingen \n \n*) in case the compressor is equipped with any of thes e optionsCopyright \nModification of the \ncompressor  \n \nSuppliers\u2019  \ndocuments *) \n\n \n0 General Information  0 - 4  0.2 Structure and use of this manual \nThe following information relates to the structure and use of this \nmanual. \n \n \n \nThis manual contains the following chapters: \n \nChapter  Summary \n0 \u0001 General Information regarding: \n\u2013 the manual, \n\u2013 its usage  \n\u2013 personnel responsibilities \n1 \u0001 Definition of the symbols used \n\u0001 Basic safety instructions \n2 \u0001 Description and function of the compressor \n3 \u0001 Operating the compressor \n4 \u0001 Maintenance hints \nA(xy) \u0001 Appendix (es) \n \n \n \nThe pages have been consecutively numbered accordin g to  \nthe chapter: \nExample: 3-2 \nSignifies: Chapter 3, Page 2 \nExample: AS-1 \nSignifies: Appendix and \u201eS\u201c for control, Page 1 \n \n \nContinuation next page Contents \nChapter \nNumbering  \nof pages \n\n \n0 General Information  0 - 5  0.3 Intended usage / misuse \nThe intended usage of the compressor is described \n \n \nPersons are regarded as authorized, when they have received \nadequate training/instruction and is then charged w ith defined \nwork on or with the compressor... Keys to the guard  doors must \nonly be made accessible to authorized persons.  \n \n \n \nThe compressor should only be used according to the  manu-\nfacturer recommendations in conjunction with the fo llowing \nbullet points.  \n\u0001 The compressor must be used only for the compressio n  \nof technically clean air without any detrimental or  explosive \nadditives or impurities. \nAmbient temperature must be below 40\u00b0C*.",
+        "node-2": "The compressor should only be used according to the  manu-\nfacturer recommendations in conjunction with the fo llowing \nbullet points.  \n\u0001 The compressor must be used only for the compressio n  \nof technically clean air without any detrimental or  explosive \nadditives or impurities. \nAmbient temperature must be below 40\u00b0C*. \n\u0001 Authorized persons only are allowed to work on the  \ncompressor   \n\u0001 The machine must only be operated with the safety d evices \ninstalled \n\u0001 The safety* and operating advice contained in this manual \nmust be observed \n\u0001 Any instructions given by the operating company mus t be \nobserved \n\u0001 The legal accident prevention rules must be respect ed \n \n \n \nMisuse is regarded as: \n\u0001 Operation by non-authorized persons  \n\u0001 Operation by disregarding rules and regulations \n\u0001 Operation without corresponding treatment / cleansi ng  \nof the compressed air in the field of foodstuffs an d breathing \nair \n\u0001 Operation with defective safety-devices or those de activated \nor modified \n \n \n* please consult your dealer or the manufacturer with  details in case the ambient \ntemperature is higher in your compressor room     \n Definition:  \nauthorized persons \nIntended usage \nMisuse \n\n \n0 General Information  0 - 6  0.4 Requirement of the user \nHereafter the duties and obligations of the user ar e outlined \nwhen operating the machines  \n \n \n \nThe user has to particularly ensure that \n\u0001 the compressor must be used only according to Manu-\nfacturer recommendations in conjunction with all cu rrent \nhealth and safety regulations \n\u0001 the compressor must be operated only when in faultl ess \ncondition and fully functional \n\u0001 the integrated safety devices are regularly service d and are \nfully functional  \n\u0001 only adequately qualified and authorized personnel operate, \nservice, and repair the compressor \n \n \n \nThe operating company must ensure that the personal   \nprotective equipment required is available for \n\u0001 the operating personnel, \n\u0001 the service and maintenance personnel \n\u0001 the maintenance and repair personnel and that it is   \nused accordingly \n \n \n \nThe operating company must ensure: \n\u0001 that prior to start up all personnel who will maint ain,  \nservice or operate the compressor are fully aware o f the \ncurrent personal and environmental safety regulatio ns  \nand procedures.  \nAnnual personnel update of safety procedures would be  \nrecomended \n\u0001 the complete manual must always be available at the  site  \nof the compressor in a readable condition \n\u0001 that personnel are aware of the location of the man ual,  \nthe content and particularly the safety chapters. \n\u0001 the safety and warning advices mounted are not take n  \naway or made illegible \n Contents \nSafety of the plant \nProtection of staff \nBriefing and  \ntraining \n\n \n0 General Information  0 - 7  0.5 Personnel responsibilities \nThe requirements in regard to personnel responsibil ities are  \nas follows. \n \n \n \nThe personnel must carry out the following duties: \n\u0001 to control and inspect the compressor as to its fau ltless  \nand safe function (see chapter 2.1) \n\u0001 to operate the compressor according to the operatin g  \npoints previewed \n\u0001 to recognize and delete or report respectively dist urbances \nand irregularities. \n \n \n \nIn order to carry through the requisitions the serv ice personal \nmust accomplish the following requirements \n\u0001 The operator (of the compressor) must have received   \ninstructions from the operating company as to the l abor  \nprotection law. \n\u0001 The operator must have a clear understanding of the   \ninstructions given by the operating company and mus t carry \nthem out. \n \n \n \nThe service and maintenance personnel must comply w ith the \nfollowing duties: \n\u0001 carry through regular inspection and maintenance wo rk \n\u0001 up-keep of the compressor \n\u0001 carry through test runs of the machine \n\u0001 check the integrated safety devices \n \n \nThe following qualifications are required in regard  to  \nmaintenance personnel: \n\u0001 The maintenance personnel must have successfully \npassed a test as skilled (machinery) labour - or eq uivalent. \n\u0001 The personnel must comply with the maintenance  \ninstructions. Contents \nDuty of operating \npersonal \nResponsibilities  \nof operating  \npersonnel \nDuties of the \nmaintenance per-\nsonnel \nRequirement  \nof maintenance \npersonnel \n\n \n1 Safety advice                          1 - 1 Chapter 1 \nSafety Advice \nThis chapter informs you about \n\u0001 Definition of the symbols used. \n\u0001 Basic advice as to the safe handling of the compres sor. \n\u0001 Advice regarding accidents. \n \n \nImportant advice! \nIt must be clearly understood that the safety advic e given in  \nthis manual should only be used as an additional ai d to the  \nnational safety accident prevention rules and laws currently \nin force. \n \nExisting accident prevention rules and regulations must be \nretained and adhered to at all times.",
+        "node-3": "\u0001 The personnel must comply with the maintenance  \ninstructions. Contents \nDuty of operating \npersonal \nResponsibilities  \nof operating  \npersonnel \nDuties of the \nmaintenance per-\nsonnel \nRequirement  \nof maintenance \npersonnel \n\n \n1 Safety advice                          1 - 1 Chapter 1 \nSafety Advice \nThis chapter informs you about \n\u0001 Definition of the symbols used. \n\u0001 Basic advice as to the safe handling of the compres sor. \n\u0001 Advice regarding accidents. \n \n \nImportant advice! \nIt must be clearly understood that the safety advic e given in  \nthis manual should only be used as an additional ai d to the  \nnational safety accident prevention rules and laws currently \nin force. \n \nExisting accident prevention rules and regulations must be \nretained and adhered to at all times. \n \n \n \nThis chapter relates to the following subjects: \n \nNo  Subject Page  \n1.1  Symbols 1-2 \n1.2  Basic safety advice 1-3 \n1.3  Accident conduct 1-6 \n \n \n Contents \nSurvey \n\n \n1 Safety advice                          1 - 2 1.1 Symbol \nSymbol definitions \n \n \n \nDanger! \n \nThis symbol relates to the danger of life and healt h of people \n \nDangers to life will be particularly related to by using the  \nexpression: danger for life.  \n \n \n \nDanger! \n \nThis symbol relates to danger for life and health o f people due \nto electric voltage. \n \n \n \nAttention! \n \nThis symbol is a sign of danger for machine, materi al or the \nenvironment \n \n \n \nAdvice! \n \nThis symbol is to indicate important advice and inf ormation \nwhich contribute to your own safety, as well as to the better \nunderstanding of the compressor operation. \n \n \n \nDisposal! \n \nThis symbol indicates advice as to the disposal of machinery \nparts and operating materials.  \n \n Contents \n \n \n \n \n\n \n1 Safety advice                          1 - 3 1.2 Basic safety advice \nHereafter you will find basic safety advice for the  safe handling \nof the compressor. \n \n \n \nDanger! \n \nTo minimise risk of personal injury, damage to equi pment  \nor property, strictly follow the remedial actions s tated below. \n  \nPossible danger Remedial action \nRemaining dangers \nThe screw compressor has \nbeen designed and built  \naccording to latest technical \nstandards and according to \nrecognized safety regulations \nand is equipped with  \ncorresponding safeguarding \nequipment. \nHowever, remaining risks \ncannot be excluded. \nThese dangers will be  \nexplained in this chapter.  \nEndangerment of people  \ndue to lack of qualification \nand/or operational faults of the \nservice personnel. \n \nExplanation: \nOperational faults may cause \npersonal injury, or damage to \nequipment and property.  You should only operate this \nequipment \n\u0001 Having the qualification \nnecessary \n\u0001 Having received  \ncomplete instructions  \nfrom the Operating  \nCompany \n\u0001 Having completely  \nread and understood this \nMANUAL  \n\u0001 Before any maintenance \nor service work is carried \nout the RED STOP button \nmust be pressed. The  \nincoming electrical supply \nto the compressor must \nalso be switched off and \nisolated.  \n \n \nProtective gloves and protective goggles must be wo rn \nduring some of the maintenance work. Please observe  the \ncorresponding advice \n \n Contents \n \n \n\n \n1 Safety advice                          1 - 4 1.2 Basic safety advice (continuation) \nDanger!  \n \nPlease strictly follow the under mentioned safety a dvice to \navoid the danger of electrical shock or personal in jury. \n \nPossible danger Remedial actions \nDanger of life \nDanger to people by an \nelectric shock. \nExplanation: \nThe machine operates  \n(as standard) at a voltage \nof 400 V with an  \nadequately high amperage.  \nAs voltages of more than \n44 mA can be fatal,  \ncorresponding precautions \nare required. \u0001 Do not touch live cables or \nconnections. \n\u0001 In case of damaged cables \nreport immediately to the \nmaintenance personnel.  \n\u0001 Ensure all doors to  \nelectrical installations  \nare closed securely. \n\u0001 Always isolate electrical  \nsupply before starting any \nmaintenance work on the \ncompressor. \n\u0001 Only trained personnel  \nmust carry out maintenance \nand service work. \n\u0001 Wear rubber soled safety \nshoes when working on the \ncompressor electrical circuit. \n\u0001 Make sure that during  \nmaintenance or service work \nno third party may switch on \nthe circuit breaker \n \n \n \nThere are no open flames and no sparks allowed at t he site \nof operation. \n  \n \n\n \n1 Safety advice                          1 - 5 1.2 Basic safety advice (continuation) \nAttention! \n \nTo minimise risk of personal injury, damage to equi pment or \nproperty, strictly follow the remedial actions stat ed below.",
+        "node-4": "\u0001 Do not touch live cables or \nconnections. \n\u0001 In case of damaged cables \nreport immediately to the \nmaintenance personnel.  \n\u0001 Ensure all doors to  \nelectrical installations  \nare closed securely. \n\u0001 Always isolate electrical  \nsupply before starting any \nmaintenance work on the \ncompressor. \n\u0001 Only trained personnel  \nmust carry out maintenance \nand service work. \n\u0001 Wear rubber soled safety \nshoes when working on the \ncompressor electrical circuit. \n\u0001 Make sure that during  \nmaintenance or service work \nno third party may switch on \nthe circuit breaker \n \n \n \nThere are no open flames and no sparks allowed at t he site \nof operation. \n  \n \n\n \n1 Safety advice                          1 - 5 1.2 Basic safety advice (continuation) \nAttention! \n \nTo minimise risk of personal injury, damage to equi pment or \nproperty, strictly follow the remedial actions stat ed below. \n \nPossible damage Measures for prevention \nPhysical injury of the \npersonnel and damage \nto the compressor  due \nto removal or evasion \nof protective devices \u0001 Do not remove or make  \ninoperative any safety device \n\u0001 Rectify defects immediately  \nthey are recognised \n\u0001 Electrical work/repairs must  \nbe carried out by a qualified  \nelectrician only  \nDamage to the  \ncompressor due to \noverloading \u0001 Do not exceed the technical \nlimit values stipulated \nBurns through hot \ncompressor parts \n \u0001 Do not touch compressor parts \nimmediately after having opened \nthe doors of the canopy  \nBurns through hot \nlubrication oil when \ntopping up or changing \noil \u0001 Turn the oil filler cap slowly  \nanticlockwise during the first  \n5 rotations until a tangible  \n\u201csnap-point\u201d. \nThus the remaining pressure  \nwill be slowly relieved  \n(see also chapter 5.7: Changing Oil)  \nPossible eye and  \nskin burn due to hot \ncondensate spurt \u0001 Let the compressor sufficiently \ncool down and handle with great \ncare before disconnecting it from \nthe c.a. system. \nWear protective goggles  \nDanger through  \ncompressed air \nDanger of life \nCompressed air may \nseverely injure human \nand domestic animals \u0001 Do not  bring compressed air to \nbear on any creature   \n\n \n1 Safety advice                          1 - 6 1.3 Accident Conduct \nHereafter you will get to know which measures must be taken at \naccidents or disasters (e.g. fire or explosion) \n \n \nPlease undertake the following measures at regular time  \nintervals so as to be prepared in case of an accide nt: \n\u0001 Take part on regular basis in First - Aid courses i n order  \nto brush up your knowledge. \n\u0001 Get yourself regularly informed about the possibili ties  \nwhich are at your disposal in regards to rescue fac ilities for \nFirst Aid in your company  \n\u0001 Safe-guard a list at your work place containing the   \ntelephone numbers required as well as the contact p erson. \n \n \nAt an accident, proceed in the following sequence: \n \nAction  If Then  \n1 there are injured \npeople \n administer first aid if you are a \ntrained first aider? \n2 there are  \ninjuries to people \nand damage to \nproperty inform the rescue team of the \nseverity of injuries and type of \ndamage to property. \n3 the disaster (fire) \nhas happened \u0001 leave the machine \nimmediately \n\u0001 use the marked emergency \nexists and escape facilities. \n\u0001 do not use elevators/lifts! \n4 there are injuries \nto people, damage \nto equipment or \nbuildings \n inform your supervisor  \nimmediately or another person \nfrom the list of company first  \naiders or safety officers. This list \nshould be clearly visible in the \nworking area. \n Contents \nPreparations for \nappropriate help at \naccidents \nAccident conduct \n\n \n2 Machine description    2-1 Chapter 2 \nMachine description \nThis chapter covers the following: \n\u0001 definition of the safe access points for operating the com-\npressor, \n\u0001 overview of the compressor and its control instrume ntation, \nand \n\u0001 technical data. \n \n \n \nThis chapter is subdivided as follows: \n \nNo.",
+        "node-5": "3 the disaster (fire) \nhas happened \u0001 leave the machine \nimmediately \n\u0001 use the marked emergency \nexists and escape facilities. \n\u0001 do not use elevators/lifts! \n4 there are injuries \nto people, damage \nto equipment or \nbuildings \n inform your supervisor  \nimmediately or another person \nfrom the list of company first  \naiders or safety officers. This list \nshould be clearly visible in the \nworking area. \n Contents \nPreparations for \nappropriate help at \naccidents \nAccident conduct \n\n \n2 Machine description    2-1 Chapter 2 \nMachine description \nThis chapter covers the following: \n\u0001 definition of the safe access points for operating the com-\npressor, \n\u0001 overview of the compressor and its control instrume ntation, \nand \n\u0001 technical data. \n \n \n \nThis chapter is subdivided as follows: \n \nNo. Subject Page \n2.1 Authorised access points 2-2 \n2.2 Safety devices 2-4 \n2.3 Compressor unit 2-5 \n2.4 Instrumentation panel RENNERlogic 2-9 \n2.5 RENNERtronic Control (optional) 2-10 \n2.6 RENNERtronic plus Control (optional) 2-11 \n2.7 Refrigeration dryer (optional) 2-12 \n \n \n Content \nOverview \n\n \n2 Machine description    2-2 \n2.1 Authorised access points \nThis section defines the safe access points for ope rating the \ncompressor and for carrying out minor inspection an d mainte-\nnance work.  \n \n \n \nOther access points are not intended for operating the com-\npressor and are therefore not permitted as operator  stations!  \nSafe operation can only be guaranteed from the oper ator termi-\nnals specified. Work on the switch box and electric al installa-\ntions may only be carried out by qualified electric ians.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nContinued overleaf Content \nImportant  \nNote! \nFigure  \nAccess points \n \n1 2 \n\n \n2 Machine description    2-3 2.1 Authorised access points (cont.)  \nThe following access points only are provided for t he operation \nof the machine: \n \nNo. Operation ... Actions permitted \n1 ... of the control panel \u0001 Check working pres-\nsure \n\u0001 Check oil and operating \ntemperature \n\u0001 Read operating hours  \n \n\u0001 Switch compressor on \n \n\u0001 Emergency stop \n or shut-down of com-\npressor \n2 ... of the safety devices \u0001 Carry out inspection \nand minor maintenance \nwork \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Description of the  \naccess points \n\n \n2 Machine description    2-4 \n2.2 Safety devices \nThis section provides an overview of the major comp ressor el-\nements and their functions. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nThe following safety devices are fitted to the outs ide of the  \ncompressor: \n \nItem Description Function \n1 Emergency stop Stops compressor immediately in \nemergency \n2 Electric panel \ndoor Guard door on control box  \nto be opened by qualified electricians \nonly \nCAUTION: Danger to life! Electrical \nvoltage! \n3 Top lid Access to air filter and oil trap car-\ntridge \n4 Side panels Access to motor, drive belt, oil filter , \noil filler neck, pressure switch and \ncontrol valve \n Content \nFigure  \nsafety devices \nDescription of the  \nsafety devices 1 \n2 3 \n4 \n\n \n2 Machine description    2-5 \n2.3 Compressor unit \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nAfter removing the front walls of the compressor, y ou will see \nthe most important components of the unit: \n \nItem Description Function \n6 Suction air filter \ncartridge Is used to filter suction air  \n7 Separator cartridge Filters the finest residue oil \nfrom the compressed air after \npre-separation \n8 Air end Generate air pressure \n9 V-belt Power transfer \n10 Safety valve Pressure limitation \n11 Electro-motor Drive \n12 Oil filter Purifies the compressor oil \n13 Pressure switch Controls the switch-on and \nswitch-off pressure \n14 Oil filter neck Oil level control and refill \n \n Figure  \ncompressor unit \nDescription of the  \ncompressor unit 6 7 \n8 9 12 11 10 \n14 13 \n\n \n2 Machine description    2-6 2.3 Compressor unit (cont.) \nAir end (item 8) \nThe direction of rotation of the air end is to the left (anti-\nclockwise) when looking from the front-side on to t he shaft (see \npicture).",
+        "node-6": "Air end (item 8) \nThe direction of rotation of the air end is to the left (anti-\nclockwise) when looking from the front-side on to t he shaft (see \npicture). Pay attention to the directional arrow on  the side of the \nair end with the sign D. \n \nSuction air filter (item 6) \nThe suction air filter is directly mounted on to th e suction stud of \nthe suction regulator. \nThe dry micro-filter with a rating of 10 \u00b5m filters  the intake air. \n \nPressure switch (electric)  \nThe pressure switch is directly connected to the ou tlet of the \nmachine. It controls the suction regulator. The val ues for p max  \nand p min are set at this switch. \npmax: is the upper service pressure at which the unit n ormally  \nstops pumping \nPmin: is the lower service pressure at which the unit n ormally  \nstarts pumping again. \n \nThe pressure switch has been correctly set in the f actory.  \nAuthorised personnel must only carry out adjustment s to the \npressure switch. \n \nSuction regulator \nThe suction regulator is directly connected to the air end. It con-\ntrols the air volume sucked in by the compressor vi a the air suc-\ntion filter. \nFunction of the suction regulator: \nThe suction regulator comprises of one main valve. This oper-\nates as a control valve and at the same time as a h ermetically \nsealed isolator valve. At full load the suction cro ss-section is \nfully opened. \nWhen the machine stops this valve closes quickly an d thus the \nsuction cross section is locked altogether. \nThe multi-functions of the regulator are ensured by  just one \nflange mounted control unit. \n \nMinimum pressure valve \nThe minimum pressure valve is situated at the outle t of the \ncompressor unit just before the air-after cooler. \nIt performs two tasks: \n \n1) As a minimum pressure valve it prevents a loss o f pressure  \n(in the air end) when no counter pressure in the ai r-mains is \navailable. A minimum pressure is necessary in order  to safe-\nguard lubrication of the air end. \n  Description  \naggregate  \ncomponents \n\n\n \n2 Machine description    2-7 2.3 Compressor unit (continuation) \n2) As a \u201cnon return valve\u201c it prevents at the same time the re-\nverse flow of compressed air from the air mains or the air ves-\nsel, back into the compressor unit.  Due to this fu nction the \ncompressor unit is totally pressure relieved once i t is stopped. \n \nThe valve operates automatically. The setting of th e minimum \npressure valve must only be done by persons authori sed by the \nmanufacturer. \n \n \nOil separator cartridge (Item 7) \nThe oil separator cartridge is not only designed fo r filtering the  \noil from the compressed air , but serves at the same time to  \nreclaim the residual oil after pre-separation as dr ops, formerly \nmicro-distributed in the system. This cartridge is a spin on/off  \ntype and \u2013 by means of the connection nipple \u2013 is s crewed on \nto the filter support of the oil re-claimer (see il lustration below) \n  \n \n \n \nIllustration:  oil separator cartridge  \n \n \nOil return scavenge window / oil return scavenge  \nnon-return valve \nThe oil return window (fitted to some air ends) is situated  \nnear to the oil separator cartridge and shows the s cavenged  \noil coming from the a.m. cartridge. \n \nWhen starting the compressor the scavenge window is  filled  \nwith oil due to its accumulation during standstill.  After a few \nminutes a mixture of oil and air can be observed. S eparation  \nof oil in the cartridge takes place. \nIf after a longer period of operating time no oil c an be observed  \nin the scavenge window , a disturbance may have happened \ne.g. a clogged borehole. As a consequence the oil s eparated \nwill be carried over in the compressed air into the  air \nmains/vessel. \nOnly personnel authorised by the manufacturer are a llowed \nto rectify such problems. Description unit  \ncomponents \n(contd.) \nsealing \nreturn oil \ncompressed air from \nseparator \n\n \n2 Machine description    2-8 2.3.2 Compression unit (continuation) \nOil scavenge window / oil scavenge non-return valve  \nThe oil scavenge non-return valve prevents the oil separator \ncartridge from flooding by scavenging oil from the air end. \n \nOil filter (item 12) \nThe oil filter (cartridge) cleans the compressor oi l from impuri-\nties.  The cartridge is screwed on to the scavenge stud by hand.",
+        "node-7": "a clogged borehole. As a consequence the oil s eparated \nwill be carried over in the compressed air into the  air \nmains/vessel. \nOnly personnel authorised by the manufacturer are a llowed \nto rectify such problems. Description unit  \ncomponents \n(contd.) \nsealing \nreturn oil \ncompressed air from \nseparator \n\n \n2 Machine description    2-8 2.3.2 Compression unit (continuation) \nOil scavenge window / oil scavenge non-return valve  \nThe oil scavenge non-return valve prevents the oil separator \ncartridge from flooding by scavenging oil from the air end. \n \nOil filter (item 12) \nThe oil filter (cartridge) cleans the compressor oi l from impuri-\nties.  The cartridge is screwed on to the scavenge stud by hand. \nThe efficiency of the filter is about 25 \u00b5m. \n \nCombistat \nThe Combistat is a temperature indicator and contro l unit.  \nIt is built into the instrument panel. It monitors the maximum \npermissible service temperature of the unit, which is set at  \n110\u00b0C (red mark). \nWhen this temperature is reached the electric circu it is discon-\nnected and the unit stops automatically. \nDo not bend the connecting line between the compres sor and \nthe Combistat, otherwise the electric circuit is in terrupted. \n \nSafety valve (item 10) \nThe safety valve is mounted on the oil re-claimer b efore the oil \nseparator cartridge. It is set 1-2 bar above the ma x. gauged \npressure. The safety valve blows off in case the fi nal pressure \nis exceeded due to a fault somewhere in the system.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Description:  \nCompression unit \ncomponents (con-\ntinuation) \n\n \n2 Machine description    2-9 2.4 Instrumentation Panel RENNERlogic \n \n \n \n \n \n \nThe following controls are found on the instrumenta tion panel: \n \nItem Description Function \n1 Start button Switches the compressor on \n2 Stop button Switches the compressor off \n3 Emergency stop Switches the compressor off  \nin case of emergency  \n4 Operating hour \nmeter Counts the number of hours op-\nerated by the compressor \n5 Pressure gauge:       \nWorking pressure Indicates pressure ratios or ex-\ncess pressure \n6 Combistat tempera-\nture indicator Indicates operating temperature \nand overheating  \n \n \n \n \n \n \n \n \n Figure  \nInstrumentation \npanel  \nRENNERlogic \nDescription of  the \nInstrumentation \npanel RENNERlogic 6 5 4 \n1 \n2 \n3 \n\n \n2 Machine description    2-10 2.5 RENNERtronic Control (Optional)  \nThe \u201cRENNERtronic\u201d controls and monitors the entire  workings \nof the compressor. It is possible to set or change a number of \nparameters and functions.=> please also note the en closed \ninstructions \n \n \n \n \n \n \n \n \n \n \nThe \"RENNERtronic\" control features the following  \ninstrumentation controls: \n \nItem Description Function \n1 Compressor ON Switches the compressor on \n2 Compressor OFF Switches the compressor off \n3 Multiple function \nkeys Navigates in the menus, sets \nparameters, etc. \n4 Display Displays the parameters \n5 LED (green) Service LED \n6 LED (red) Fault / maintenance LED \n \n \nNote! \n \nPlease see the explanations in Chapter 4 and the in struction \nmanual for the \u201cRENNERtronic\u201d control.   \n \n \n Content \nFigure  \nControl \nRENNERtronic \nInstrumentation \ncomponents: \nControl \nRENNER tronic  \n 2 3 1 4 \n5 6 \n\n \n2 Machine description    2-11 2.6 RENNERtronic plus Control (Optional)  \nThe \u201cRENNERtronic plus\u201d controls and monitors the e ntire \nworkings of the compressor. It is possible to set o r change a \nnumber of parameters and functions.=> please also n ote the \nenclosed instructions \n \n \n \n \n \n \n \n \n \nThe \"RENNERtronic plus\" control features the follow ing  \ninstrumentation controls: \n \nItem Description Function \n1 Compressor ON Switches the compressor on \n2 Compressor OFF Switches the compressor off \n3 Multiple function \nkeys Navigates in the menus, sets \nparameters, etc. \n4 Display Displays the parameters \n5 LED (green) Service LED \n6 LED (red) Fault / maintenance LED \n \n \nNote! \n \nPlease see the explanations in Chapter 4 and the in struction \nmanual for the \u201cRENNERtronic plus\u201d control.",
+        "node-8": "It is possible to set o r change a \nnumber of parameters and functions.=> please also n ote the \nenclosed instructions \n \n \n \n \n \n \n \n \n \nThe \"RENNERtronic plus\" control features the follow ing  \ninstrumentation controls: \n \nItem Description Function \n1 Compressor ON Switches the compressor on \n2 Compressor OFF Switches the compressor off \n3 Multiple function \nkeys Navigates in the menus, sets \nparameters, etc. \n4 Display Displays the parameters \n5 LED (green) Service LED \n6 LED (red) Fault / maintenance LED \n \n \nNote! \n \nPlease see the explanations in Chapter 4 and the in struction \nmanual for the \u201cRENNERtronic plus\u201d control.   \n \n \n Content \nFigure  \nControl \nRENNERtronic plus \nInstrumentation \ncomponents: \nControl \nRENNER tronic plus  \n 2 1 5 4 \n6 3 \n\n \n2 Machine description    2-12 2.7 Refrigerant drier (optional)   \nThis section provides a brief overview of the refri geration drier, \ninstalled as an optional feature.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nHazard! \nObserve the safety instructions in the separate ope rating man-\nual for the refrigerant drier. It is especially dan gerous to breathe \nin refrigerant vapour or come into contact with liq uid refrigerant. \nSmoking is not permitted when working around the re frigerant \ndrier since ash from cigarettes, or any other naked  flame (e.g. \nwhen welding) combines with the refrigerant to prod uce poison-\nous vapours.  \n \n \n \n Contents \nDiagram s of \nrefrigerant drier \n \n1.) Compressed air inlet    6.) Electrical connecti ons \n2.) Cpmpressed air outlet    7.) Maintenance access  \n3.) Refrigerant air intake    8.) Mounting holes \n4.) Refrigerant air outlet    E100.) On-off switch  \n5.) Steam trap      EICA.) Electronic  \n        regulator \n             \n\n \n2 Machine description    2-13  \n \n \n \nThe refrigerant drier also has a cooling unit to co ol the com-\npressed air. The unit also removes moisture from th e com-\npressed air. The resulting condensate is drained of f using a \ncondensate separator.  \n \n \n \nAttention! \nPlease see the explanations in chapter 4 and the KT  Appendix \nas well as the manufacturer\u2019s instruction manual.   \n \nPlease note \n \nthat the float of the steam trap is checked regular ly and cleaned \nwhen necessary. Exact instructions regarding the pr ocedure \ncan be seen in the manufacturer's instruction manua l in Point \n5.1.3 Maintenance. \n \n Description  \nRefrigerant drier \n \n\n  \n3 - Installation and start-up   3-1 Chapter 3 \nInstallation and commissioning \nThis chapter contains the most important informatio n on trans-\nporting, installing and storing the compressor.  \n \n \nThe installation plan and the technical data of thi s specific \nscrew compressor model can be ordered from RENNER G mbH. \nThe compressor is delivered on a euro-pallet, packa ged in a \ncarton and labelled.  \n \nDanger of tipping!  \nThe machine can tip over at an inclination of more than 10\u00b0! \nUse suitable transport means such as a forklift, li fting gear or \nloading harness. Support it from the side. \n \nUnpacking the machine has no special requirements a nd the \n(interim) storage in the transport packaging is als o not problem-\natic. Protect the compressor against tilting over b y storing it on \nlevel, firm ground. \n \n \nDispose of the packaging material (carton / marked sheets) \nseparately.  \n \n \nThis chapter is subdivided into the following secti ons: \n \nNo. Subject Page  \n3.1 Compressor installation 3-2 \n3.2 Connections 3-3 \n3.3 Compressor start-up 3-5 \n \n \n \n \n \n \n Content \nGeneral Info r-\nmation  \n \n \nOverview \n\n  \n3 - Installation and start-up   3-2 3.1 Compressor installation \nThis section contains important instructions which you need to \nobserve in order to safely install the compressor a nd to prevent \ndamage or malfunction. \n \n \nWarning! \nFollow the safety instructions! \nAlways remain outside the danger zone of a raised l oad! \n \n \nKey word Ensure that \nInstallation site \u2022 Surface: Flat, level, firm \n\u2022 Building ceilings: Check load bearing \ncapacity \n\u2022 Air: As cool as possible, clean, frost-free, \nas little damp as possible \nTemp.",
+        "node-9": "This chapter is subdivided into the following secti ons: \n \nNo. Subject Page  \n3.1 Compressor installation 3-2 \n3.2 Connections 3-3 \n3.3 Compressor start-up 3-5 \n \n \n \n \n \n \n Content \nGeneral Info r-\nmation  \n \n \nOverview \n\n  \n3 - Installation and start-up   3-2 3.1 Compressor installation \nThis section contains important instructions which you need to \nobserve in order to safely install the compressor a nd to prevent \ndamage or malfunction. \n \n \nWarning! \nFollow the safety instructions! \nAlways remain outside the danger zone of a raised l oad! \n \n \nKey word Ensure that \nInstallation site \u2022 Surface: Flat, level, firm \n\u2022 Building ceilings: Check load bearing \ncapacity \n\u2022 Air: As cool as possible, clean, frost-free, \nas little damp as possible \nTemp.: +5\u00b0C (41\u00b0F) - +40\u00b0C (104\u00b0F)* \n\u2022 Sufficient ventilation in the room \n\u2022 Air intake must be sufficiently unobstruct-\ned  \n\u2022 Arrange the air intake opening in such a \nway that no loose items can be sucked in \n\u2022 The installation site is illuminated (to read \noff the instruments, carry out maintenance \nwork9) \nLifting work \u2022 Secure any loose, swinging or pivoting \nparts before lifting the compressor \n\u2022 Use suitable lifting gear  \n(weight acc. to data sheet) \n\u2022 Always remain outside the danger zone of \na raised load \nConduits,  \npressure pipes \u2022 Remove all blank flanges, stoppers, co-\nvers and bags with drying agents before \nmounting conduits \n\u2022 Please ensure that the connection from \nthe aftercooler to the compressed air sys-\ntem can expand as a result of heat and \nmust be connected by means of a flexible \nhose. \nExhaust air \u2022 An exhaust duct must at minimum have \nthe diameter of the cooler outlet area and \ncan be 3m in max. length with one bow of \n90\u00b0; for longer ducts, use additional fans \nwith 20% more power than the compres-\nsor fan \n\u2022 When installing several compressors \nplease ensure that no compressor sucks \nin the heated exhaust air from another \ncompressor \n* Please ask your retailer in the event of higher t emperatures. Content \n \nCompressor insta l-\nlation \n\n  \n3 - Installation and start-up   3-3  3.2 Connections \nThis section covers important instructions which yo u need to \nobserve in order to safely connect the compressor t o the com-\npressed air system as well as the electrical supply .  \n \n \nWarning!  \nBefore connecting the machine to the compressed air  system, \nall conduits and hose connections inside the compre ssor must \nbe checked and, if necessary, retraced.  \n \nFor plants with pressure tanks, an acceptance check  of the air \ncollection tank must be made by a compressed air ta nk expert \nbefore commissioning.  \nStart an inspection log! \n \nA Compressed air connection  \nThe system has all the required conduits and is rea dy for opera-\ntion.  \nThe following must be observed when connecting to t he com-\npressed air system:  \n \nKey word Ensure that \nPressure \u2022 Suitable screws and conduits are used for \nthe operating pressure \n\u2022 The end pressure of the system is not \nhigher than stated on the rating plate. \n\u2022 A non-return valve between the machine \nand the compressed air system is not  \nrequired as it has already been integrated \nin the machine. \nConnection \u2022 Connect the system without voltage and \nisolated against vibrations to the com-\npressed air system e.g. by using a flexible \nhose \nShut-off valve \u2022 The additional installation of a shut-off \nvalve is recommended to facilitate \nmaintenance tasks at the compressor \nwithout de-pressurising the compressed \nair system. \nCondensate \u2022 An automatic steam trap can be integrat-\ned behind the after cooler for improved \ncondensate separation from the com-\npressed air \n \n \n \n \n Content \n \nComp ressed air \nconnection \n\n  \n3 - Installation and start-up   3-4 3.2 Connections (continuation) \nB Electrical connection \nAttention! All wiring work on the controls, and the compressor s \nhave to be carried out in consideration of the 5 sa fety rules.  \n              \n  \nOnly the connection to the electricity supply is no w required for \nthe machine which is now ready to use with all cond uits in-\nstalled.  \nThe machine must only be connected by an electricia n! \nThe following must be observed when connecting to t he mains \nsupply:  \n \nKey word Ensure that \nVoltage \u2022 Tthe machine is only connected to the \nvoltage stated on the engine rating plate \nRotation \u2022 The rotational direction is observed under \nall circumstances!",
+        "node-10": "All wiring work on the controls, and the compressor s \nhave to be carried out in consideration of the 5 sa fety rules.  \n              \n  \nOnly the connection to the electricity supply is no w required for \nthe machine which is now ready to use with all cond uits in-\nstalled.  \nThe machine must only be connected by an electricia n! \nThe following must be observed when connecting to t he mains \nsupply:  \n \nKey word Ensure that \nVoltage \u2022 Tthe machine is only connected to the \nvoltage stated on the engine rating plate \nRotation \u2022 The rotational direction is observed under \nall circumstances! Based on the attached \narrows. \n\u2022 Checking the rotational direction see \nchap. 3.3/3.4. Not necessary for            \nfrequency-controlled compressors \nFuses \u2022 Customer to install the main fuse and \ncircuit breaker with the EMERGENCY \nSTOP function; these must be able to \nswitch at least 1.1 times the motor output \nand must be clearly allocated to the ma-\nchine \n\u2022 Ensure that the mains supply is sufficient-\nly secured (see data sheet) \nConnection \u2022 The supply cable must be situated such \nthat there is no danger of tripping over it \n\u2022 Insert the cable with leads L1, L2, L3, N \nand PE through the PG connection  \nin the connection box \n Connect the leads to terminals L1, L2, L3 \nN (wire 4) and PE respectively \nWarning: if possible do not use plugs !! \n Electrical conne c-\ntion \n\n\n  \n3 - Installation and start-up   3-5 3.3 Compressor start-up \nThis section covers important information which you  need to \nobserve in order to start up the compressor safely.  \n \n \nEach component of the machine is tested at the fact ory in con-\ntinuous operation after the final assembly. The tes t ensures that \nthe components indicate the data given and operate fault-free. \nDuring the initial hours of operation the machine m ust be \nwatched to determine any possible malfunctions.  \n \n \nImportant! \nThe respective operating manuals must be read and o bserved \nfor machines with additional optionally installed c omponents \n(electronic control, frequency converter, refrigera nt dryer).  \n \n \nThe following points must be observed and carried o ut before \nthe first start-up: \n \nStep Task to be carried out / Points to be  \nobserved: \n1 Have an electrician tighten all screw and terminal \nconnections in the control cabinet \n2 The motor bearings of compressors, without perma-\nnent greased motor bearings, that are unused longer  \nthan 6 month have to be regreased before putting in to \noperation \n3 A clearly visible sign must be affixed to machines with \nremote control with the following wording:  \nWarning! This machine is remote controlled and \nmay start without warning!  \n \nWhen controlling the machine remotely you must take  \nthe safety precautions which prevent the  \nmachine from starting up while it is controlled \n or maintained; place a relevant instruction on the  \nremote control switch \n4 Do not use the emergency or main switch to switch \nthe machine off during normal operations \n see chapter 4 \u201cNormal Mode Operation\" (Pages 4-5)  \n \n \n \n Content \nGeneral points \nPreparation \n\n\n  \n3 - Installation and start-up   3-6 3.3 Compressor start-up (continuation) \nWhen first starting up the machine, as well as afte r each \nchange to the electrical feed line, the rotation of  the screw com-\npressor must be checked.  \nThe rotation of the V-belt pulley must follow the d irection of the \nattached arrows! If necessary, reconnect the connec ting cable \n(electrician). \n \n \nWARNING! \nThe rotation control must be carried out as a two-h and opera-\ntion! \n \nAn incorrect rotation for longer than 2 seconds wil l lead to faults \nin the screw compressor! \n \nThere is a danger from moving parts when checking t he rotation \nwith the safety doors open! \n \nProceed as follows when checking the rotation: \n \nStep Operation: Figure / Expl. \n1 Open the front door   \n2 Start the compressor by tap-\nping the green start button \nonce with the one hand; im-\nmediately let go of the button  \n  \n \n \n3 Within 2 seconds stop the \ncompressor by pressing  \nthe red stop button with the \nother hand. \n  \n \n \n Checking t he  \nrotational direction \nINFO \n\n\n  \n3 - Installation and start-up   3-7 3.3 Compressor start-up (continuation) \nCarry out a test run so that the oil can be distrib uted throughout \nthe machine.  \n \n \n \nStep Operation: Figure / Expl. \n1 Open the shut-off valve. \nPress the start button and let \nthe machine run for approx.",
+        "node-11": "3 - Installation and start-up   3-7 3.3 Compressor start-up (continuation) \nCarry out a test run so that the oil can be distrib uted throughout \nthe machine.  \n \n \n \nStep Operation: Figure / Expl. \n1 Open the shut-off valve. \nPress the start button and let \nthe machine run for approx. 5 \nseconds.  \n  \n \n \n2 Press the stop button.  \n \n \n \n3 Repeat points 1 and 2 twice.   \n \n \n \n \n \n \n \n Test run  \nINFO \nConduct a  \ntest run \n\n \n4 Operation / Normal use   4 - 1 Chapter 4 \nOperation / Normal use \nThis chapter covers the information required for no rmal opera-\ntion of the compressor. \n \n \n \nThis chapter is subdivided into the following secti ons: \n \nNo. Subject Page  \n4.1 Control instrumentation RENNERlogic 4-2 \n4.2 Control instrumentation RENNERtronic 4-3 \n4.3 Control instrumentation RENNERtronic plus 4-5 \n4.4 Starting normal operation 4-6 \n4.5 Switching off the compressor 4-8 \n4.6 Remedying malfunctions in normal operation 4-10  \n \n \n \n Content \nOverview \n\n \n4 Operation / Normal use   4 - 2 4.1 Control instrumentation RENNERlogic \nThis section provides an overview of the instrument ation control \nRENNERlogic. \n \n \n \n \n \n \n \n \nThe control components have the following function( s): \n \nItem Description  Function/Use  \n1 Start button  Starts the compressor \n \nNote: \nThe main switch must be \nswitched on. The main \nswitch is installed by the \ncustomer. \n2 Stop  button  Stops the compressor \n3 Emergency Stop  Stops compressor im-\nmediately in emergency \n4 Operating hour meter  Counts the number of \nhours the compressor \nhas actually run \n5 Pressure gauge  \nWorking pressure Displays working pres-\nsure setting \n6 Temperature display  \nCombistat Displays the oil tempera-\nture and operating tem-\nperature \n Content \nFigure  \nInstrumentation \ncomponents \nRENNERlogic \nFunction  \nInstrumentation \ncomponents \nRENNERlogic 1 \n2 4 5 6 \n3 \n\n \n4 Operation / Normal use   4 - 3 4.2 Control instrumentation RENNERtronic \nThis section provides an overview of the instrument ation control \nRENNERtronic. \n \n \n \n \n \n \n \n \n \n \n \nThe instrumentation control has the following funct ion(s): \n \nItem Description Function \n1 Compressor ON / \nStart  Switches the compressor on \n2 LED (green) Service LED \n3 Compressor OFF/  \nStop  Switches the compressor off \n4 Arrow key UP The UP key takes you to the pre-\nvious menu item and increases \nparameter values.  \nAlso serves to call up the INFO \nlevel (in conjunction with the En-\nter key)  \n5 Arrow key DOWN The DOWN key takes you to the \nnext menu item and decreases \nparameter values.  \nAlso serves to call up the INFO \nlevel (in conjunction with the En-\nter key)  \n Content \nFigure  \nInstrumentation \ncontrol \nRENNERtronic \nFunction  \nInstrumentation \ncontrol \nRENNERtronic  3 6 1 9 \n2 \n4 5 7 8 \n\n \n4 Operation / Normal use   4 - 4 Item Description Function \n \n6 Enter Select a menu item. \nConfirm or save entries or \nchanges.  \n7 LED (red) Fault / maintenance LED \n8 Quit Quit discards inputs and ends a \nselected menu item.  \nIt also acknowledges warning \nand error messages.  \n9 Display Displays the parameters and the \nerror/warning messages.  \n1st line : Displays current opera-\ntional data \n2nd line : Displays menu values \nas well as error and warning \nmessages. \n \n \n \n \n \n \n \n\n \n4 Operation / Normal use   4 - 5 4.3 Control instrumentation RENNERtronic plus \nThis section provides an overview of the instrument ation control \nRENNERtronic plus. \n \n \n \n \n \n \n \nThe instrumentation control has the following funct ion(s): \nPos.  Bezeichnung Funktion \n1 LED (green) Service LED \n2 Compressor ON / \nStart  Switches the compressor on \n3 Compressor OFF/  \nStop  Switches the compressor off \n4 LED (red) Fault / maintenance LED \n5 Enter Select a menu item. \nConfirm or save entries or \nchanges.  \n6 Arrow key DOWN The DOWN key takes you to the \nnext menu item and decreases \nparameter values.  \n7 Arrow key UP The UP key takes you to the pre-\nvious menu item and increases \nparameter values.",
+        "node-12": "4 Operation / Normal use   4 - 5 4.3 Control instrumentation RENNERtronic plus \nThis section provides an overview of the instrument ation control \nRENNERtronic plus. \n \n \n \n \n \n \n \nThe instrumentation control has the following funct ion(s): \nPos.  Bezeichnung Funktion \n1 LED (green) Service LED \n2 Compressor ON / \nStart  Switches the compressor on \n3 Compressor OFF/  \nStop  Switches the compressor off \n4 LED (red) Fault / maintenance LED \n5 Enter Select a menu item. \nConfirm or save entries or \nchanges.  \n6 Arrow key DOWN The DOWN key takes you to the \nnext menu item and decreases \nparameter values.  \n7 Arrow key UP The UP key takes you to the pre-\nvious menu item and increases \nparameter values.  \n8 Function keys       \nF1, F2, F3 On the display (9) to the left of \nthe function keys, there is always \nthe current assignment \n9 Display Displays the parameters and the \nerror/warning messages.  Inhalt \nFigure  \nInstrumentation \ncontrol \nRENNERtronic  \nplus \nFunction  \nInstrumentation \ncontrol \nRENNERtronic  \nplus 4 1 9 \n2 \n3 8 \n7 \n6 \n5 \n\n \n4 Operation / Normal use   4 - 6 4.4 Starting normal operation \nThe following section explains how to start the com pressor and \ncontains essential points for normal operation. \n \n \nDanger!  \nThere are moving parts inside the compressor housin g which \ncan cause serious injuries. \nNever operate the compressor with the housing open!  \n \n \nCheck the following points before starting the comp ressor: \n\u0001 Is the oil level sufficiently high? \n\u0001 Is the main switch on? \n\u0001 Are any existing shut-off valves open? \n \n \n \nStep  Operation  Figure / Expl.  \n1 Press the Start  button to \nstart the compressor . \n \n \n \n2 Monitor the following \npoints at regular intervals \nduring operation:  \n2a Working pressure   \nThe working pressure \ndisplayed must not ex-\nceed the maximum per-\nmissible value specified \non the type plate. If this \nis the case, switch off the \ncompressor immediately. \n \n \n \n \n \n Content \nBefore starting  \nthe compressor \n \nStart compressor  \nand monitor in \nnormal operation \n \n\n\n \n4 Operation / Normal use   4 - 7 4.4 Starting normal operation (continuation) \nStep  Operation  Figure / Expl.  \n2b Oil temperature and \noperating temperature   \nThe oil temperature and \noperating temperature \nmust not exceed 110\u00b0C. \nIf 110\u00b0C is exceeded the \ncompressor will cut out \nautomatically.  \nImportant!  \nShould the compressor \nfail to cut out automati-\ncally it must be switched \noff immediately by hand! \n \n \n \n \n \n2c Operating hour meter   \nVarious maintenance \nwork must be carried out \nafter a specified number \nof operating hours.  \nThe exact maintenance \nintervals and relevant \nservicing work are listed \nin the maintenance \nschedule. \n \n \n \n \n \n Monitor normal  \noperation \n(contd.) \n\n \n4 Operation / Normal use   4 - 8 4.5 Switching off the compressor \nThis section explains how to switch off the compres sor in nor-\nmal operation and/or at the end of operations. \n \n \nTo switch off the compressor carry out the steps be low in the \norder listed: \n \nStep  Operation  Figure / Expl.  \n1 Press the red Stop but-\nton while the compres-\nsor is running to shut \ndown the compressor.  \n  \n \n \n3 The compressor now \nswitches to the follow-\non time and stops au-\ntomatically after that. \n \nNB! \nThe follow-on time must \nnot be shorter than the \npre-adjusted time! (A \nlonger period of time is \nno problem).  \n4 Press the Emergency \nStop to secure the \ncompressor \nEmergency Stop \n  \n \n \n Content \nStop normal  \noperation \n \n\n \n4 Operation / Normal use   4 - 9 4.5 Switching off the compressor (continuation) \nIf you want to shut off the compressor completely:  \n(e.g. after completing the work), then in addition to the above  \nsteps, you must also turn off the main switch. \n \n \n \n \nNote: \nSwitching the machine off via the red emergency sto p button \ncan lead to the oil frothing up in the separator ta nk. Possible \nconsequences: \n\u0001 Exit of oil exit with the discharge air. \n\u0001 Oil overflow in the separator cartridge \n\u0001 The compressed air could contain oil when re-starti ng the \nmachine. \n \nAlthough this is not usually critical and is normal ised during op-\nerations, in certain cases, it could however become  necessary \nto replace the separator cartridge. \n Completely shut off",
+        "node-13": "4 Operation / Normal use   4 - 10 4.6 Remedying malfunctions in normal operation \nThis section contains advice on remedying malfuncti ons. \n \n \n \nDanger! \n \nHuman error in remedying faults or lack of professi onal training \ncan lead to serious damage to property or physical injury. \nIt is therefore essential that faults are rectified  by duly qualified \npersons. \n \n \n \nAlways take the following steps before starting any  work: \n\u0001 Switch the compressor and main switch off! \n\u0001 Discharge all the compressed air from the compresso r and \nair vessel! \n \n \n \nThe following faults may occur during operation: \n \nFault Possible Cause Remedy \nSystem starts  \nstarting \u2022 No power  \n  \n\u2022 Loose cables  \n or fuses \n\u2022 Motor protection \nswitch has cut out  \n \n\u2022 Combistat cut out / \ndefective  \n \n \n \n\u2022 Connecting lines to \nCombistat are kinked \u0002 Establish  \n power supply \n\u0002 Retighten cables or \nfuses \n\u0002 Unlock motor protec-\ntion switch (switch \ncabinet) \n\u0002 Ensure correct cool-\ning;  \ninstall new Combistat \nif defective  \n \n\u0002 Ensure correct guid-\ning of connection ca-\nbles \n \nContinued overleaf Content \n \nBefore removing \nfaults \nMalfunctions \n\n \n4 Operation / Normal use   4 - 11 4.6 Remedying malfunctions in normal operation (con tinuation) \nFault Possible Cause Remedy \nSystem starts  \nwith difficulty \u2022 Time for \n star-delta connec-\ntion too long or too \nshort \n \n\u2022 Machine is under \ncompression \nload \n\u2022 Voltage fluctua-\ntions in the grid  \n \n\u2022 Ambient temper-\nature  \ntoo low causing \nexcess viscosity \nof oil \n\u2022 Oil is too viscous  \u0002 Check and correct \ntime setting,  \ncorrect setting  \n3-6 seconds,  \nadjust on Relay K 1T \n\u0002 Determine reason  \n \n \n\u0002 Check solenoid valve \nand relief valve and \nchange if necessary \n\u0002 Heat installation loca-\ntion \n \n \n \n\u0002 Select correct type of \noil: RENNER VDL N \nISO 68 or 46 for low \ntemperatures.  \nCompressor cuts \nout before reaching \ndischarge pressure \u2022 Motor overload \ntripping \n \n \n \n \n \n\u2022 Combistat cuts \nout due to ex-\ncessively high \ntemperature \n\u2022 Short circuit in \ntrip line  \n \u0002 Check and adjust \noverload setting; \ncheck and adjust dis-\ncharge pressure \nswitch setting; check \nsupply lead for phase \nfailure. \n\u0002 Ensure correct cool-\ning; install new Com-\nbistat if defective \n \n\u0002 Eliminate cause of \nshort circuit, change \ndefective fuse \n \nContinued overleaf Malfunctions  \n(contd.) \n\n \n4 Operation / Normal use   4 - 12 4.6 Remedying malfunctions in normal operation (con tinuation) \nFault Possible Cause Remedy \nMotor overload \ntripping (therm. \novercurrent relay) \nhas stopped the \nsystem  \n \u2022 Blocked  \nsystem \n\u2022 Phase failure \n\u2022 Motor over-\nloaded \n \n \n \n \n\u2022 Ambient tempe-\nrature too high \u0002 Eliminate reason for \nseizure \n\u0002 Check supply line \n\u0002 Check and adjust \noverload setting; \ncheck and adjust dis-\ncharge pressure \nswitch setting \n \n\u0002 Ensure adequate \nventilation \nCombistat cuts out \ndue to excessively \nhigh temperature \u2022 Insufficient oil  \n \n \n\u2022 Oil filter clogged \n\u2022 Oil thermostat \ndefective \n\u2022 Oil cooler dirty \n\u2022 Compressor in-\ncorrectly installed  \n \n\u2022 Combistat defec-\ntive or incorrectly \nset \u0002 Check and adjust oil \nlevel  \n \n\u0002 Change oil filter \n\u0002 Replace oil thermos-\ntat \n\u0002 Clean oil cooler (air \nor oil side) \n\u0002 Refer to recommen-\ndations for installation  \n\u0002 Adjust or replace \nCombistat \nSafety valve blows \u2022 Safety valve de-\nfective \n\u2022 Oil separator \ncartridge clogged  \n \u0002 Change safety valve \n \n\u0002 Change separator \ncartridge  \n \n \n \n \n \n \nContinued overleaf Malfunctions  \n(contd.)",
+        "node-14": "4 Operation / Normal use   4 - 13 4.6 Remedying malfunctions in normal operation (con tinuation) \nFault Possible Cause Remedy \nOil in compressed air \u2022 Oil scavenge line and \nnozzle in oil sight \nglass clogged \n\u2022 Separator cartridge \ndefective \n\u2022 Oil tank level too high  \n \n\u2022 Compressor was \nstopped  \nbefore end of run-on \ntime \n \u0002 Have oil scavenge \nsystem cleaned  \n \n \n\u0002 Check cartridge and \nreplace if necessary \n\u0002 Rectify oil level  \n \n \n\u0002 Never switch off \ncompressor until run-\non time has elapsed \nCompressor does not \nvent during continuous \noperation; compressor \ndoes not cut out during \nintermittent operation, \ni.e. safety valve blows \u2022 Upper trigger point of \ndischarge pressure \nswitch set too high \n\u2022 Solenoid valve defec-\ntive \n\u2022 Relief valve defective \n\u2022 Minimum pressure \nvalve jamming \u0002 Reset discharge \npressure switch \n \n \n \n\u0002 Change solenoid \nvalve \n\u0002 Change relief valve \n \n\u0002 Check and adjust \nminimum pressure \nvalve \nCompressor vents \ncontinuously; low vol-\numetric capacity \u2022 Solenoid valve defec-\ntive \n\u2022 Relief valve defective \n\u2022 Electric supply to so-\nlenoid valve discon-\nnected \n\u2022 Auxiliary contact on Y-\ncontactor defective \u0002 Change solenoid \nvalve \n\u0002 Change relief valve in \nintake regulator \n\u0002 Restore supply line \nconnection  \n \n\u0002 Check switch and \nreplace if necessary \nNon-existent or insuffi-\ncient discharge capaci-\nty \u2022 Intake filter clogged \n\u2022 Intake regulator or \nintake valve jamming \nor positioned incor-\nrectly  \n(continuous operation)  \n\u2022 Leaks in the system \u0002 Change air filter  \n \n\u0002 Check regulator and \nbutterfly valve and \nclean bearing and \nguides  \n \n \n\u0002 Rectify leaks \n \nContinued overleaf Malfunc tions  \n(contd.) \n\n \n4 Operation / Normal use   4 - 14 4.6 Remedying malfunctions in normal operation (con tinuation) \nFault Possible Cause Remedy \nIntake regulator \ndoes not close at \ndischarge pressure \u2022 Actuating cylin-\nder defective, no \ncontrol pressure \n \n\u2022 Nozzle blocked \nor frozen \u0002 Install new actuating \ncylinder, check sole-\nnoid valve  \n \n\u0002 Clean nozzle \nPressure vessel not \ndepressurising \u2022 Non-return valve \ndefective \u0002 Change non-return \nvalve  \n \nOil in compressor, \noil mist on  \nventing \u2022 Loose connec-\ntion in oil line \n\u2022 Check seal on oil \ndrain plug \n\u2022 Machine is shut \noff if under load \n(e.g. emergency \nstop switch)  \n \n \n \n\u2022 Check condition \nand fit of O-ring \non intake regula-\ntor \u0002 Tighten connection  \n \n\u0002 Tighten screw,  \nseal if necessary \n\u0002 Do not switch com-\npressor off until it has \ncoasted for  \n three minutes, or \ncheck the minimum \nrun-on time and set \nto  three minutes \n\u0002 Fit new O-ring if nec-\nessary \nSystem runs noisily  \n \u2022 V-belts not cor-\nrectly tensioned  \n \n\u2022 V-belt sets not \ncompatible \n\u2022 V-belt pulleys not \naligned with each \nother \u0002 Check V-belt tension \nand tighten if neces-\nsary \n\u0002 Replace with match-\ning set of belts \n\u0002 Check alignment of \npulleys and adjust if \nnecessary \n Malfunctions  \n(contd.) \n\n \n5 Maintenance    5-1 Chapter 5 \nMaintenance instructions \nThis chapter contains information on the maintenanc e work \nrequired. \n \n \n \n \nThis chapter is subdivided as follows: \n \nNo. Subject Page \n5.1 What to take into account 5-2 \n5.2 Remove faults 5-5 \n5.3 Venting the compressor system 5-6 \n5.4 Cleaning work 5-7 \n5.5 Checking oil level 5-8 \n5.6 Changing oil filter 5-9 \n5.7 Changing oil 5-10 \n5.8 Cleaning oil level sight glass 5-11 \n5.9 Cleaning oil cooler 5-11 \n5.10 Check safety valve 5-12 \n5.11 Tensioning and changing the drive belt(s) 5-13  \n \n \n Content \nOverview \n\n \n5 Maintenance    5-2 5.1 What to take into account \nThis section contains general information to be hee ded during \nservicing and maintenance work. \n \n \n \nServicing and maintenance work may only be carried out by \nduly qualified personnel. \n \nThe specific personnel requirements are set out in Chapter 0. \n \n \n \nDanger!",
+        "node-15": "Servicing and maintenance work may only be carried out by \nduly qualified personnel. \n \nThe specific personnel requirements are set out in Chapter 0. \n \n \n \nDanger! \n \nIt is essential to adhere to the following safety i nstructions in \norder to avoid all risks of personal injury or deat h: \n \nPotential Source of Dan-\nger Preventive Measures \nCrushing from moving \nparts \u0001 Always maintain a safe dis-\ntance from all moving parts \nwhen carrying out test runs  \nElectric shock \u0001 Switch off all voltage sources \nbefore starting work.  \n\u0001 Take measures to prevent \npower  \nsources from being switched \non again by accident  \nInappropriate spare parts  \u0001 Always replace self-locking \nnuts and screws  \n\u0001 Only use spare parts includ-\ned in the approved lists  \nUnauthorised/premature \napproval of unit for opera-\ntion  \u0001 Do not release the unit for \noperation until the safety de-\nvices are fully functional.  \nOnly then is the work com-\npleted!  \n  \n Content \nPersonnel  \nrequirement \n \n\n \n5 Maintenance    5-3 5.1 What to take into account (continued)  \n \nThe following steps must be carried out after compl eting the \nwork: \n \nStep Operation \n1 Follow the maintenance schedule and complete the \ninspection sheets, activity logs, etc. (see Appendi x W \n\u201cMaintenance Check\u201d).  \n2 Check that the safety devices are working correct ly. \nDo not release the machine for operation if the saf ety \ndevices are not in perfect working order.  \n3 Reinstall and secure any safety devices that have  \nbeen removed.  \n4 Remove any tools, foreign objects and materials l eft \nlying around.  \n5 Carry out a test run and check the function of th e ser-\nviced components.  \n6 If you leave the machine before completing the wo rk \nkeep the keys safe and inaccessible to unauthorised  \npersons.  \n \n \n \nOnly genuine spare parts should be used when replac ing com-\nponents such as the oil filter, oil, air filter, se parator cartridge, V-\nbelt, etc. \n \n \nOnly allow authorised dealers to carry out repair w ork.  \nA list of other persons authorised by the manufactu rer to carry \n out repairs can be obtained from the manufacturer on request. \n \nDo not allow repairs to be carried out by any perso ns other \nthan those authorised by the manufacturer! \n \nServicing is carried out as agreed with the authori sed dealer. \n \n \n \n \n \n After completion of \nwork \nSpare parts,  \naccessories \nRepairs \n\n \n5 Maintenance    5-4 5.1 What to take into account (continued)  \nTake the standard safety precautions and proceed wi th great \ncare when carrying out any servicing work.  \nPlease follow especially the points below: \n \n\u0001 Servicing work to be carried out by qualified perso nnel only.  \n\u0001 Correct tools only to be used for servicing work.  \n\u0001 Unit and power supply to be switched off before any  servic-\ning work is carried out. Take measures to ensure th at the \nunit cannot be switched on accidentally! \n\u0001 Unit must be allowed to cool before carrying out se rvicing \nwork to avoid risk of burns!  \nException: oil change (unit at operating temperatur e); safety \ninstructions to be strictly adhered to in this case ! \n\u0001 Unit to be disconnected from all sources of pressur e and all \npressure removed before executing a maintenance wor k or \ndismounting pressurised parts.  \n\u0001 Scrupulous standards of cleanliness to be maintaine d dur-\ning servicing work; parts and exposed openings to b e cov-\nered with a clean cloth, paper or masking tape.  \n\u0001 Motor, air filter, electrical components, control e quipment, \netc. to be protected from ingress of moisture, e.g.  when be-\ning wiped.  \n\u0001 Welding or other heat-based work never to be carrie d out in \nclose proximity to the oil system; oil tank to be f ully dis-\ncharged and cleaned before such work.  \n\u0001 No tools, loose parts or rags to be left in or on t he unit.  \n\u0001 Operating pressures, temperatures, time settings, c ontrol \nequipment and cut-out devices to be checked for per fect \nworking order before unit is released for operation  after \nmaintenance work.  \n\u0001 Doors on unit to be closed before switching on the unit (in-\ncluding for test run)! \n\u0001 Sound-absorbing materials to be left in place and r etained.  \n \n \n \n \n General  \nNotes \n\n \n5 Maintenance    5-5 5.2 Remove faults \nThis section covers general points on troubleshooti ng and con-\ntains references to relevant sources of information . \n \n \n \nDanger!",
+        "node-16": "when be-\ning wiped.  \n\u0001 Welding or other heat-based work never to be carrie d out in \nclose proximity to the oil system; oil tank to be f ully dis-\ncharged and cleaned before such work.  \n\u0001 No tools, loose parts or rags to be left in or on t he unit.  \n\u0001 Operating pressures, temperatures, time settings, c ontrol \nequipment and cut-out devices to be checked for per fect \nworking order before unit is released for operation  after \nmaintenance work.  \n\u0001 Doors on unit to be closed before switching on the unit (in-\ncluding for test run)! \n\u0001 Sound-absorbing materials to be left in place and r etained.  \n \n \n \n \n General  \nNotes \n\n \n5 Maintenance    5-5 5.2 Remove faults \nThis section covers general points on troubleshooti ng and con-\ntains references to relevant sources of information . \n \n \n \nDanger! \n\u0001 Always take measures to ensure that the machine can  be \nshut off in an emergency by a second person. \n\u0001 You may only rectify faults or carry out checks if you are \nduly qualified (specialist training in mechanical o r electrical \nengineering). \n\u0001 Adhere to the general safety instructions contained  in this \nmanual for handling the machine.  \n\u0001 Follow the instructions given in this chapter and a ll other \nmaintenance instructions issued by the operator and  pay \ndue regard to the documentation relating to the com ponents \nincluded in the unit (e.g. frequency converter, ref rigerant \ndryer).  \n \n \n \nThe necessary action to be taken in the event of fa ults is out-\nlined... \n \n... in Chapter 4.4. \u201cRemedying malfunctions in norm al opera-\ntion\u201d and  \n... in the operator\u2019s internal servicing documents.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Content \n \n \nList of faults \n\n \n5 Maintenance    5-6 5.3 Venting the compressor system \nThis section outlines the main points to be taken i nto account \nwhen the unit has to be vented.  \n \n \n \nThe pressure has to be removed from the unit before  all servic-\ning and maintenance work. The unit vents automatica lly when \nswitched off but if there is a fault the unit might  remain pressur-\nised even after being switched off. Since this is n ot evident from \nthe outside it is always essential to vent the unit  before servic-\ning work. \n \n \nBeware of burns when unit is at operating temperatu re!  \nThe oil filler plug can reach temperatures  \nup to approx. 110 \u00b0C ! Always use gloves when handl ing \nthe oil filler plug! \nWhen the oil filler plug is unscrewed the residual pressure \nmay cause hot oil to squirt out! It is therefore es sential to \nwear safety goggles! \n \n \nIt is essential to adhere to the following instruct ions in order to \navoid the above risks of personal injury or death: \n \nStep Operation \n1 Switch off the unit and take measures to prevent it  \nfrom being restarted.  \n2 Unscrew cap on filler neck (oil filler plug) by han d.   \n3 The first five rotations of this plug must be made \nslowly in an anti-clockwise direction until the det ect-\nable \u201csnap point\u201d is reached; the oil filler plug h as a \nside safety borehole through which the residual \npressure can gradually discharge.  \n4 Wait until all the pressure in the unit has been re -\nlieved; the unit is now depressurised.  \n \n \n \n \n \n \n \n \n \n \n Contents \nWhy vent? \n  \nVenting the co m-\npressor system \n\n \n5 Maintenance    5-7 5.4 Cleaning work \nThe following section contains information on clean ing the \ncompressor and the air filter.   \n \n \nIn terms of general cleaning, vacuum the unit or wi pe it with a \ndamp cloth. Check the intake passage regularly, whe re neces-\nsary removing any leaves, dust, dirt or similar mat ter in the in-\nterests of an efficient air supply.  \n \n \nNever direct compressed air at living beings!  \nMisuse of the compressed air unit can cause serious  tissue \ndamage or even fatal injuries.  \n \n \n \nStep Operation \n1 Switch off the unit and take measures to prevent it  \nfrom being restarted.  \n2 Unscrew filter cover and remove filter cover.  \n3 Remove filter cartridge.  \n4 Wipe dust out of filter housing with a slightly dam p \ncloth.  \n5 Replace filter. \n6 Insert filter in housing. \n7 Fit filter cover and screw on, ensuring that the co ver \n is correctly seated. \n8 Carry out test run and functional check. \n \n \n \n \n \n \n \n \n \n \n \n \n Content \nGeneral points \n \nCleaning the air \nfilter",
+        "node-17": "Check the intake passage regularly, whe re neces-\nsary removing any leaves, dust, dirt or similar mat ter in the in-\nterests of an efficient air supply.  \n \n \nNever direct compressed air at living beings!  \nMisuse of the compressed air unit can cause serious  tissue \ndamage or even fatal injuries.  \n \n \n \nStep Operation \n1 Switch off the unit and take measures to prevent it  \nfrom being restarted.  \n2 Unscrew filter cover and remove filter cover.  \n3 Remove filter cartridge.  \n4 Wipe dust out of filter housing with a slightly dam p \ncloth.  \n5 Replace filter. \n6 Insert filter in housing. \n7 Fit filter cover and screw on, ensuring that the co ver \n is correctly seated. \n8 Carry out test run and functional check. \n \n \n \n \n \n \n \n \n \n \n \n \n Content \nGeneral points \n \nCleaning the air \nfilter \n \n\n\n \n5 Maintenance    5-8 5.5 Checking oil level \nThis section outlines the procedure for checking th e oil level in \nthe compressor.    \n \n \nThe level in the oil tank is a key factor in the op erational safety \nof the unit. Due diligence should be exercised in c onducting the \nfollowing checks at the specified times. Otherwise we cannot \naccept liability in the event of damage.   \n \n \nFollow the safety instructions for venting the unit  (see \nChap. 5.3) \n \n \n \n \n \nStep Instructions \n1 Switch off the unit and take measures to prevent it  \nfrom being restarted.  \n2 Wait until the unit has been switched off for at le ast \nthree minutes.  \n3 Unscrew cap on filler neck of block by hand. \n4 To check the oil level, look on the oil sight glass es: \nMinimum oil level:  Oil must not fall below half of  the \noil sight glass right next to  the thermal valve \nMaximum oil level: Oil should not be higher than ha lf \nof the oil sight glass over the thermal valve \n5 If necessary, refill to the maximum mark with oil o f \nthe same kind. \n6 Replace the oil filler plug firmly by hand. \n7 Switch on the unit and check for leaks at the oil f iller \nneck. \n8 If necessary, change the O-ring at the filler neck.  \n \n \n \n \n \n \n \n Content \nGeneral points \n \nChecking the oil \nlevel \n \n \n\n \n5 Maintenance    5-9 5.6 Changing oil filter \nThis section outlines the procedure for changing th e oil filter.  \n \n \nAn oil filter may only be changed when the unit is switched off \nand fully depressurised and without power.  \n \n \n \nStep Operation \n1 Switch off the unit and take measures to prevent it  \nfrom being restarted. Allow the unit to cool to app rox. \n70\u00b0C and then remove the pressure as described in \nChapter 5.3.  \n2 Loosen the old oil filter with the hexagon screw an d \nremove it. \n3 Place the new oil filter in the air end and tighten  it. \n4 Start the unit and check the oil filter for leaks. \n5 Record the oil filter change on the maintenance \ncheck sheet. \n \n \n \nComply with environmental guidelines  \nwhen disposing of used filter cartridges! \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Content \nImportant note! \nChanging the oil \nfilter \n \n\n \n5 Maintenance    5-10 5.7 Changing oil \nThis section outlines the procedure for changing th e oil.  \n \n \nThe oil may only be changed when the unit is switch ed off and \nfully depressurised! The unit should be at operatin g tempera-\nture (approx. 60\u00b0C - 80\u00b0C) when the oil change is c arried out. \nThe unit should be run with the type of oil best su ited to its op-\neration. The oil used by the factory is RENNER VDL N ISO 68.  \nIt is recommended that this grade of oil is used.  \nOther oil grades must be comparable to the RENNER V DL ISO \n68. Only refill the unit with oil of the same make and the same \ngrade.  \nDo not mix oils of different kinds! \nFollow the safety instructions for venting the unit   \n(see Chap. 5.3)! \n \nStep Operation \n1 Switch off the unit and take measures to prevent it  \nfrom being restarted. Allow the unit to cool to app rox. \n70\u00b0C and then remove the pressure as described in \nChapter 5.3.  \n2 Take a receptacle suitable for collecting the oil a nd \nposition it under the ball valve on the base of the  \ncompressor block and then unscrew the plug and \nopen the ball valve.  \n3 Drain all the oil from the compressor block then cl ose \nthe ball valve and replace the plug.",
+        "node-18": "It is recommended that this grade of oil is used.  \nOther oil grades must be comparable to the RENNER V DL ISO \n68. Only refill the unit with oil of the same make and the same \ngrade.  \nDo not mix oils of different kinds! \nFollow the safety instructions for venting the unit   \n(see Chap. 5.3)! \n \nStep Operation \n1 Switch off the unit and take measures to prevent it  \nfrom being restarted. Allow the unit to cool to app rox. \n70\u00b0C and then remove the pressure as described in \nChapter 5.3.  \n2 Take a receptacle suitable for collecting the oil a nd \nposition it under the ball valve on the base of the  \ncompressor block and then unscrew the plug and \nopen the ball valve.  \n3 Drain all the oil from the compressor block then cl ose \nthe ball valve and replace the plug.  \n4 Pour the new oil into the filler neck up to the max i-\nmum level and replace the oil filler plug firmly by  \nhand.  \n5 Switch the unit on, let it run 2 to 3 times for onl y \nabout 5 seconds and switch it off again.This allows  \nthe oil to be distributed in the unit before it is put on \nload.  \n6 Switch the unit on and allow it to run for approx. \nthree minutes.  \n7 Check the oil level and, if necessary, refill to ma xi-\nmum mark.  \n8 Check drain plug and oil filler plug for leaks.  \n9 Record the oil change on the maintenance check \nsheet.  \n \nComply with environmental guidelines when disposing  of \nused oil! \n* The machine must be completely emptied before usi ng a synthetic oil, \ne.g. (RENNER Super Lub).  \n(Including cooler and filter) Content \nImportant note! \n \nChanging the oil \n \n\n \n5 Maintenance    5-11 5.8 Cleaning oil return window  \nThis section outlines the procedure for cleaning th e oil scav-\nenge sight gauge (optional extra).  \n \n \nThe oil scavenge sight gauge is screwed onto the li ne on the \nseparator cartridge.  \n \n \nStep Operation \n1 Switch off the unit and take measures to prevent it  \nfrom being restarted. Allow the unit to cool to app rox. \n70\u00b0C and then remove the pressure as described in \nChapter 5.3.  \n2 Undo the screws on the oil scavenge sight gauge.  \n3 Remove sight gauge and wipe over with a cloth.  \n4 Check seal and replace if necessary.  \n5 Refit sight gauge.  \n \n \n \n \n5.9 Cleaning oil cooler \nThis section outlines the procedure for cleaning th e oil cooler.  \n \n \nIf the oil cooler is not very dirty it can be left in the unit and \nblown with compressed air while the unit is switche d off.  \nIf the oil cooler is very dirty proceed as outlined  below.  \n \n \nStep Operation \n1 Switch off the unit and take measures to prevent it  \nfrom being restarted. Allow the unit to cool to app rox. \n70\u00b0C, disconnect from the power supply, and remove \nthe pressure as described in Chapter 5.3.  \n2 Remove the oil cooler.  \n3 Steam clean the oil cooler.  \n4 Refit oil cooler.  \n5 Start the unit and check for leaks. \n \n Content \nGeneral points \nCleaning the oil \nlevel indicator \nContent \nGeneral points \nClean ing the oil \ncooler \n\n \n5 Maintenance    5-12 \n5.10 Check the safety valve \nCheck   After 2000 operating hours - however at least 1x a year \n \n \nGeneral points The check process may only take a few seconds and b e \ncompleted only by hand \n \n \nCaution risk of injury! \nScalding danger by escaping hot air-oil mixture \nSince this is a dangerous process, please proceed w ith extreme \ncaution. \nAdditionally, safety precautions should be taken, s uch as safety \ngoggles and ear protection. \n \n \n     \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nStep Operation \n1 Unscrew the cap ( 1) by turning counterclockwise (do \nnot use any tools!) \n2 The cap must lift and let out air. \n3 Close the cap by turning clockwise. \n4 After closing the cap, no more air should escape. \n \nThe average service life of the valve seal is 3 yea rs! \n  \n \n  \nCheck the safety \nvalve \n 1 \n\n \n5 Maintenance    5-13 \n5.11 Tensioning and changing of drive belts(s) \nThis section outlines the procedure for tensioning and/or chang-\ning the V-belt.  \n \n \nThe belt can be set to the optimum tension using th e adjust-\nmentscrews on the air end block. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFig.",
+        "node-19": "Additionally, safety precautions should be taken, s uch as safety \ngoggles and ear protection. \n \n \n     \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nStep Operation \n1 Unscrew the cap ( 1) by turning counterclockwise (do \nnot use any tools!) \n2 The cap must lift and let out air. \n3 Close the cap by turning clockwise. \n4 After closing the cap, no more air should escape. \n \nThe average service life of the valve seal is 3 yea rs! \n  \n \n  \nCheck the safety \nvalve \n 1 \n\n \n5 Maintenance    5-13 \n5.11 Tensioning and changing of drive belts(s) \nThis section outlines the procedure for tensioning and/or chang-\ning the V-belt.  \n \n \nThe belt can be set to the optimum tension using th e adjust-\nmentscrews on the air end block. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFig. Tighten drive belt \n \n \nThe optimum capacity of the system and service life  of the \nV-belt is guaranteed only if the belt is correctly tensioned.  \nPlease check the setting before start up and after 100 oper-\nating hours, as well as according to the informatio n in the \nmaintenance plan. \n \nFor replacing or re-tensioning the V-belt, please p roceed as \nfollows: \n \n \nStep Operation \n1 Switch off the unit, disconnect it from the power s up-\nply, and take measures to prevent it from being re-\nstarted.  \n2 Loosen the air end screws.(1)  \n3 Turn the adjustment screw (2) (in a clockwise direc -\ntion) until the optimum tension is reached. \n4 Tighten the screws on the air end again. \n5 The correct pre-tensioning value can be obtained \nfrom the data sheet. \n6 Using a pre-tensioning test device (e.g. optibelt \nOptikrik) you can review the values \n \n \n Content \nGeneral points \n \n \nTighten  \ndrive belt 2 1 \n\n \n5 Maintenance    5-14 Step Operation \n1 How to \"tighten a V-belt\", step 1 and 2 \n2 Loosen adjustment screw, remove old belts \n3 Insert the new V-belt (please only use RENNER orig-\ninal spare parts). \n4 As described above in \u201cThighten belts\u201d, step 3 \u2013 6.  \n \n \nCheck for each V-belt replacement the alignment of the V-\nbelt pulleys to each other. \n \nPlease note that the correct V-belt tensioning valu es and \nthe alignment of the pulleys are a deciding feature  for the \nservice life of the V-belt. Change the  \n V-belt \n \n\n \n6 Decommissioning and disposal   6 - 1 Chapter 6 \nDecommissioning and disposal \nThis chapter contains important advice for (tempora rily) \ndecommissioning or disposing of your compressor.   \n \n \n \nThis chapter is divided into the following sub-sect ions: \n \nNo.  Subject Page  \n6.1  Decommissioning of plant 6-2 \n6.2  Re-commissioning after storage 6-3 \n6.3  Shut-down and disposal 6-4 \n \n \n \n \n Content \nSurvey \n\n \n6 Decommissioning and disposal   6 - 2 6.1 Decommissioning of plant \nThis section contains instructions you need to foll ow when \ndecommissioning the compressor for an extended  period of \ntime, and when subsequently returning it to operati on.  \n \n \nWhen decommissioning for an extended period of time , prepare \nthe unit as follows: \n \nStep  Activity \n1  A qualified electrician should disconnect the  \n compressor from power supply and lock off isolator   \n to ensure it can not be restarted by accident.   \n2  Check oil level and fill if necessary (see  \n Chapter 5.5 \"Checking oil level\") The unit \n should be stored with its oil tank filled to the  \n max. recommended level  \n3  Slacken the V-belt (see Chapter 5.11  \n \u201cTensioning and changing of belt\u201d).  \n  Do not cover the  unit with any material that \n is impermeable to air. Doing so intensifies the  \n corrosion of individual parts. \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Content \nDecomissioning of \nplant \n \n\n \n6 Decommissioning and disposal   6 - 3 6.2 Re-commissioning after storage \nCompressor units that have been switched off, \ndecommissioned or stored away for longer than 3 mon ths, \nshould not be put back into operation until the fol lowing \nmeasures have been carried out.",
+        "node-20": "2  Check oil level and fill if necessary (see  \n Chapter 5.5 \"Checking oil level\") The unit \n should be stored with its oil tank filled to the  \n max. recommended level  \n3  Slacken the V-belt (see Chapter 5.11  \n \u201cTensioning and changing of belt\u201d).  \n  Do not cover the  unit with any material that \n is impermeable to air. Doing so intensifies the  \n corrosion of individual parts. \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Content \nDecomissioning of \nplant \n \n\n \n6 Decommissioning and disposal   6 - 3 6.2 Re-commissioning after storage \nCompressor units that have been switched off, \ndecommissioned or stored away for longer than 3 mon ths, \nshould not be put back into operation until the fol lowing \nmeasures have been carried out. \n \n \nFollow the procedure outlined below to return the c ompressor to \noperation after being out of commission for 3 month s or more.  \n \nStep  Activity \n1  Turn the screw compressor in the direction of \n rotation several times by hand.  \n2  Remove the air inlet filter and manifold and pou r  \n approx. 0.1 litres of oil (\u201cmanufacturer recommend ed  \n compressor oil only\u201d) into the suction port. Then,  turn  \n the screw compressor by hand in the direction of t he  \n rotation arrow (anti-clockwise) once more. \n3  Check the oil level (in the reclaimer tank) and fi ll  \n where necessary, see 5.5. \u201cChecking of oil level\u201d.   \n4  Connect unit: see Chapter 3.2 \u201cConnections\u201d. \n5  Re-adjust  the V-belt (see Chapter 5.11  \n \u201cTensioning and changing of belt\u201d).  \n \n Re-commissioning \ninformation \nRe-commissioning \nafter storage \n\n \n6 Decommissioning and disposal   6 - 4 6.3 Shut-down and disposal \n \n \nThis section describes what you need to consider wh en shutting \ndown and disposing of the unit.  \n \n \nDANGER \n\u0001 Observe the safety instructions outlined in this ha ndbook, \nthe instructions specified in the supplier's docume ntation as \nwell as accident prevention guidelines.  \n \nDanger of life! \n\u0001 Moving or lifting the compressor should only be und ertaken \nin a safety conscious manner. \n\u0001 Always ensure no one is within the danger zone when  the \ncompressor is being lifted.   \n \nDANGER \nWhen carrying out the following disassembly work be  aware  \nof sharp corners and edges which may cause cuts. Fo r this \nreason always wear protective gloves.  \n \nEnvironment  \n\u0001 The following instructions must be observed properl y  \nto prevent any possible damage to the environment. The \nOperating Company must ensure that the regulations are \nadhered to correctly even where disposal is carried  out  \nby an authorized firm of specialists.  \n \n \n \nTo dismantle the compressor, proceed as follows and  observe \nthe following points:  \n \nStep  Activity \n1  Find out how each component (or the whole  \n machine) needs to be disposed of. \n If unsure, consult your local environmental agency . \n2  Depressurise all components and vent the unit  \n (see Chapter 5.3. \u201cVenting the plant\u201d).  \n \n Content \n \n \n \nDisassembly of the \ncompressor \n\n \n6 Decommissioning and disposal   6 - 5 6.3 Shut-down and disposal (Cont.) \nThe following materials were predominately used in the \nconstruction of the unit:  \n \n Material  Where used \n Batteries, NiCad-/Li \u2022 Control \n Copper \u2022 Cables \n Steel \u2022 Machine frame \n\u2022 Side panels and doors \n\u2022 Motor and components \n Plastic, rubber, PVC \u2022 Gaskets \n\u2022 Tubes \n\u2022 Cables \n Tin \u2022 Boards \n Polyester \u2022 Boards \n \n \nThe following parts, materials and fluids must be d isposed of \nseparately: \n \n Denomination   Application \n LCD displays  \n Note:  \n LCD displays contain   \n highly poisonous fluids \u2022 Display devices \n Electronic scrap \u2022 Electrical supply \n\u2022 Controls (SPS etc.) \n\u2022 Boards with electronic parts \n \n \nThe environment: \nDispose of all parts of the unit in a manner that p revents \ndamage from being caused to other peoples\u2019 health o r the \nenvironment. \n \n \n Materials  \nInformation \nHazardous waste  \nInformation \n \n\nAppendix T: Data sheet Manual\nRENNER GmbH\nTypeNominal \npowerStart Noise levelQuantity \nof oilCooling \nairOutlet \nconnectionHRC FuseElectr.",
+        "node-21": "\u2022 Boards with electronic parts \n \n \nThe environment: \nDispose of all parts of the unit in a manner that p revents \ndamage from being caused to other peoples\u2019 health o r the \nenvironment. \n \n \n Materials  \nInformation \nHazardous waste  \nInformation \n \n\nAppendix T: Data sheet Manual\nRENNER GmbH\nTypeNominal \npowerStart Noise levelQuantity \nof oilCooling \nairOutlet \nconnectionHRC FuseElectr. \nConn.Dimensions mm Weight Air receiver\nkW db(A) ltr m\u00b3/h Amp mm\u00b2 L x B x H kg\nRS-B 2.2 2,2 direkt 66 1,95 300 \u00bd\" 16 2,5 716 x 536 x 540 124 x-500\nRS-B 3.0 3,0 direkt 70 1,95 300 \u00bd\" 16 2,5 716 x 536 x 540 133 x-500\nRS-B 4.0 4,0 direkt 70 1,95 340 \u00bd\" 16 2,5 716 x 536 x 540 133 x-500\nRS-B 5.5 5,5 \u03a5\u2206 75 1,95 560 \u00bd\" 16 2,5 716 x 536 x 540 159 x-500\nRS-B 7,5 7,5 \u03a5\u2206 78 3,15 980 \u00bd\" 25 4 776 x 556 x 597 189 x-500\nRS-B 11 11,0 \u03a5\u2206 81 3,15 1950 \u00bd\" 35 6 776 x 556 x 597 207 x-500\nRSK-B 2.2 2,2 direkt 66 1,95 600 \u00bd\" 16 2,5 971 x 536 x 705 160 x-500\nRSK-B 3.0 3,0 direkt 70 1,95 600 \u00bd\" 16 2,5 971 x 536 x 705 169 x-500\nRSK-B 4.0 4,0 direkt 70 1,95 640 \u00bd\" 16 2,5 971 x 536 x 705 169 x-500\nRSK-B 5.5 5,5 \u03a5\u2206 75 1,95 860 \u00bd\" 16 2,5 971 x 536 x 705 195 x-500\nRSK-B 7,5 7,5 \u03a5\u2206 78 3,15 1280 \u00bd\" 25 4 1031 x 556 x 721 225 x-500\nRSK-B 11 11,0 \u03a5\u2206 81 3,15 2250 \u00bd\" 35 6 1031 x 556 x 721 243 x-500\nRSD-B - Compressor on air receiverRSDK-B - Compressor and refrigeration dryer on air receiverFree air delivery\nm\u00b3/min\n7,5 bar 10 bar\n0,335 0,265\n0,46 0,38 0,64 0,53 0,83 0,74 0,46 0,381,13 1,015 1,57 1,54\n0,335 0,265\n1,57 1,540,64 0,53 0,83 0,74 1,13 1,015\nAT Appendix Data sheet      2014-09                          AT-2\n\nACE - Appendix EC Conformity                          ACE-1 \nEC Declaration of Conformity according to machine g uideline 2006/42/EC Appendix \nII 1.A \n \nThe manufacturer / distributor  \nRENNER GmbH Kompressoren \nEmil-Weber-Stra\u00dfe 32 \n74363 G\u00fcglingen \nhereby declares that the following product \n \nProduct description: RENNER Screw Compressor \nManufacturer: RENNER \nSerial no.:  \nSeries / type description: RS-B, RSK-B, RSD-B, RSDK-B   2,2 - 11 kW \nDescription: \nScrew Compressor for generating compressed air of 7 ,5 to 10 bar \n \nmeets all relevant provisions of the above stated g uideline and the other applied guidelines (to follo w) - \nincluding the changes applicable at the time of the  declaration.",
+        "node-22": ":  \nSeries / type description: RS-B, RSK-B, RSD-B, RSDK-B   2,2 - 11 kW \nDescription: \nScrew Compressor for generating compressed air of 7 ,5 to 10 bar \n \nmeets all relevant provisions of the above stated g uideline and the other applied guidelines (to follo w) - \nincluding the changes applicable at the time of the  declaration. \n \nThe following further EU directives were applied:  \nEMC directive 2014/30/EU \nDirective 2014/29/EU \nRoHS directive 2011/65/EU \n \nThe following harmonised standards were applied, in  its current version:  \nEN 1012-1 Compressors and vacuum pumps - Safety req uirements - Part 1: \nCompressors \nEN 286-1 Simple unfired pressure vessels designed t o contain air or nitrogen - Part 1: \nPressure vessels for general purposes \nEN 60204-1 Safety of machinery - Electrical equipme nt of machines - Part 1: General \nrequirements \nEN ISO 12100 Safety of machinery - General principl es for design - Risk assessment and \nrisk reduction \nEN ISO 13849-1 Safety of machinery -Safety relevant  parts of controls - Part 1: General \nprinciples for design \nEN ISO 13849-2 Safety of machinery -Safety relevant  parts of controls - Part 2: Validation \n \n \n \nName and address of person who is authorised to com pile the technical documentation: \nMichael Zottl \nRENNER GmbH Kompressoren \nEmil-Weber-Stra\u00dfe 32 \n74363 G\u00fcglingen \n \n \n_______________________________ ___________________ ___________ \n(Signature) (Signature) \nManaging Director Contractor for documentation",
+        "node-23": "1 2 3 4 5 6 7 8 9 10\nFill out commissioning report \u0001\nCheck screw connections and tighten if necessary \u0001\nCheck that all connections are firm and tight \u0001\nChecking the oil Level \u0001 \u0001\nCheck the V-belt tension and wear \u0001 \u0001\nTighten electric clamps \u0001 \u0001\nFunctional check of pressure and temperatur gauges \u0001 \u0001\nMeasuring / testing current consumption \u0001 \u0001\nCheck ON and OFF settings and adjust if necessary \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nCheck the alignment of the V-belt pulleys \u0001\nCheck the dirt level of the air filter and the possibly mounted ventilator filter pads \u0001\nCompressors with air receiver, empty the condensate water* \u0001\nExamine all the hoses to ensure that they are in good working condition \u0001\nCheck funktion of the condensate drain* \u0001\nCheck contactors for wear \u0001\nControl the oil / air cooler and clean if necessary \u0001\nCheck the compressor to ensure that it has no leaks \u0001\nCheck the overall condition of the compressor \u0001\nCheck air filter element, replace if necessary \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nClean / replace the filter mats* \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nCheck / replace the safety valve \u0001 \u0001 \u0001 \u0001\nChanging the oil filter \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nChange the oil \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nChange the fine separator cartridge \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nCheck the follow-on time (>= 3 min) \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nReplace thermal valve element \u0001 \u0001 \u0001\nChange oil suction / recirculation hoses \u0001 \u0001 \u0001 \u0001 \u0001\nChange control air hose \u0001 \u0001 \u0001 \u0001 \u0001\nReplace solenoid valve \u0001 \u0001 \u0001 \u0001 \u0001\nMaintenance set minimum pressure valve \u0001 \u0001\nChange the V-belt \u0001 \u0001 \u0001\nReplace the O-ring on the oil filler plug \u0001 \u0001 \u0001\nMaintenance condensate drain* \u0001 \u0001\nServicing kit for the intake regulator \u0001 \u0001\nReplace minimum pressure valve completely \u0001\nReplace oil hoses* \u0001\nReplace pressure switch / pressure sensor \u0001\nReplace motor bearings A and B side \u0001\nReplace electrical contactors \u0001\nMaintenance package 1 (see maintenance package List for each compressor) \u0001\nMaintenance package 2 \u0001\nMaintenance package 3 \u0001\nMaintenance package 4 \u0001\nMaintenance package 5 \u0001\nMaintenance package 6 \u0001\nMaintenance package 7 \u0001\nMaintenance package 8 \u0001\nMaintenance package 9 \u0001\nMaintenance package 10 \u0001\n* if existingafter ... yearsAppendix W - Maintenance Control\nfor RS-B 3 - 11\nwith less than 2000 hours / year\nMaintenance work\ncommissioning periodically",
+        "node-24": "2000 4000 6000 8000 10000 12000 14000 16000 18000 20000\nFill out Commissioning report \u0001\nCheck screw connections and tighten if necessary \u0001\nCheck that all connections are firm and tight \u0001\nChecking the oil Level \u0001 \u0001\nCheck the V-belt tension and wear \u0001 \u0001\nTighten electric clamps \u0001 \u0001\nFunctional check of pressure and temperatur gauges \u0001 \u0001\nMeasuring / testing current consumption \u0001 \u0001\nCheck ON and OFF settings and adjust if necessary \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nCheck the alignment of the V-belt pulleys \u0001\nCheck the dirt level of the air filter and the possibly mounted ventilator filter pads \u0001\nCompressors with air receiver, empty the condensate water* \u0001\nExamine all the hoses to ensure that they are in good working condition \u0001\nCheck funktion of the condensate drain* \u0001\nCheck contactors for wear \u0001\nControl the oil / air cooler and clean if necessary \u0001\nCheck the compressor to ensure that it has no leaks \u0001\nCheck the overall condition of the compressor \u0001\nCheck air filter element, replace if necessary \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nClean / replace the filter mats* \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nCheck / replace the safety valve \u0001 \u0001 \u0001 \u0001\nChanging the oil filter \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nChange the oil \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nChange the fine separator cartridge \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nCheck the follow-on time (>= 3 min) \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001 \u0001\nReplace the O-ring on the oil filler plug \u0001 \u0001 \u0001 \u0001 \u0001\nChange oil suction / recirculation hoses \u0001 \u0001 \u0001 \u0001 \u0001\nChange control air hose \u0001 \u0001 \u0001 \u0001 \u0001\nMaintenance set minimum pressure valve \u0001 \u0001\nChange the V-belt \u0001 \u0001 \u0001\nReplace thermal valve element \u0001 \u0001 \u0001\nMaintenance condensate drain* \u0001 \u0001\nReplace solenoid valve \u0001 \u0001\nServicing kit for the intake regulator \u0001 \u0001\nReplace minimum pressure valve completely \u0001\nReplace oil hoses* \u0001\nReplace pressure switch / pressure sensor \u0001\nReplace motor bearings A and B side \u0001\nReplace electrical contactors \u0001\nMaintenance package 1 (see maintenance package List for each compressor) \u0001\nMaintenance package 2 \u0001\nMaintenance package 3 \u0001\nMaintenance package 4 \u0001\nMaintenance package 5 \u0001\nMaintenance package 6 \u0001\nMaintenance package 7 \u0001\nMaintenance package 8 \u0001\nMaintenance package 9 \u0001\nMaintenance package 10 \u0001\n* if existingafter ... hoursAppendix W - Maintenance Control\nfor RS-B 3 - 11\nwith more than 2000 hours / year\nMaintenance work\ncommissioning periodically\n\n\n \n  AW2 \u2013 Appendix Motor Bearings                       AW-1 Appendix W2 \nMaintenance of Motor Bearings \nThis Appendix provides an overview of how motor bea rings are \nto be maintained. This description only applies to current sys-\ntems and may differ to the maintenance required for  older mo-\ntors. \n \n \n \nOur compressors up to 37kW  are fitted with motors having \nclosed, continuously lubricated deep-groove ball be arings \u2013 \ntheoretical service life is between 15,000 and 30,0 00 operating \nhours (oh).  If operating conditions are different to that defined \nin the instruction manual, it is imperative that th e maintenance \nintervals are adjusted to the prevailing circumstan ces and con-\nditions to ensure reliable operations. Should there  be high lev-\nels of dirt and dust, frequent switch-ons and high ambient tem-\nperatures as well as operations at 60Hz, the mainte nance inter-\nvals must be adjusted accordingly. \n \n \n1. Switch off unit and prevent it from being restar ted by  \n    accident. \n2. If applicable, uninstall the motor and remove th e ancillary \ncomponents (fan impeller, frame, fan cover, pulley)  \n3. Disassemble the bearing cover (center) and beari ng shield  \n    (outside) \n4.",
+        "node-25": "If operating conditions are different to that defined \nin the instruction manual, it is imperative that th e maintenance \nintervals are adjusted to the prevailing circumstan ces and con-\nditions to ensure reliable operations. Should there  be high lev-\nels of dirt and dust, frequent switch-ons and high ambient tem-\nperatures as well as operations at 60Hz, the mainte nance inter-\nvals must be adjusted accordingly. \n \n \n1. Switch off unit and prevent it from being restar ted by  \n    accident. \n2. If applicable, uninstall the motor and remove th e ancillary \ncomponents (fan impeller, frame, fan cover, pulley)  \n3. Disassemble the bearing cover (center) and beari ng shield  \n    (outside) \n4. Remove the old bearing with a puller (if difficu lt, carefully \nwarm up the bearing) and remove the old grease \n5. Carefully warm up the inner ring of the new bear ing \n6. Push the new bearing to the stop on the shaft an d keep it \nthere briefly \n7. Generously grease the new bearing with suitable grease \n8. Re-assemble the bearing cover and bearing shield  \n9. Re-install bearing seal \n \n \nThe type designations of the motor bearings can be found in  \nTable 1. \n \n \n \n \n \n \n \n \n \n Contents \nContinuously lubri-\ncated motor bear-\nings \nDescription  \nProcedure for re-\nplacing bearings \n\n \n  AW2 \u2013 Appendix Motor Bearings                       AW-2 Appendix W2 Maintenance of Motor Bearings (cont.) \nOur motors from 45 kW are fitted with \u201copen\u201d ball bearings. \nMotors this size and up have re-lubrication devices  on the A- \nand B-sides.  \nThese bearings must be re-lubricated regularly in a ccordance \nwith the information given in the maintenance check  sheet. \nOur motors are pre-lubricated from the factory with  a polyurea-\nbased high-temperature grease for min. 150\u00b0C. \nFor instance, SKF LGHP 2 or a polyurea-based equiva lent \nis to be used. Order no.: 10254  \nIt is imperative that these specifications are adhe red to when \nre-lubricating the motor bearings as mixing differe nt greases \ncan significantly shorten the life of the bearings.   \n \nNB! If operating conditions are different, it is impera tive that the \nmaintenance intervals are adjusted to the local cir cumstances \nand conditions to ensure reliable operations. This means that \nshould there be high levels of dirt and dust, frequ ent switch-ons \nand high ambient temperatures as well as operations  at 60Hz, \nthe maintenance intervals must be shortened. \n \n \nPlease carry out the following steps to re-lubricat e the mo-\ntor bearings: \n \n1. Switch off unit and prevent it from being restar ted by  \n    accident. \n2. Thoroughly clean the grease nipples and surround s. \n3. Remove the cap of the re-lubrication device. \n4. Remove the cover of the drainage opening (usuall y oppo-\nsite). Excess grease is discharged here.  \n5. Introduce approx. half of the grease to be used for re-\nlubrication \u2013 it is best to use a grease gun. Then let the mo-\ntor run for approximately 1 minute. \n6. Switch the unit off and introduce the remaining re-lubrication  \n    grease. \n7. Re-install the cap of the re-lubrication device and the cover of \nthe drainage opening.  \n \n \n \nIf the motors are idle for a longer period of time,  the motor shaft \nshould be rotated once a month. Rotate the motor sh aft manu-\nally for at least 5 rotations and bring to a stop i n a different posi-\ntion to the starting position. \nIf the motors have to be idle for more than 6 month s, the motor \nbearings must be re-lubricated before start-up. \nIf the motors have to be idle for more than 2 years , the motor \nbearings must be replaced. \n \n Motor bearings r e-\nquiring re-\nlubrication \nProcedure for re -\nlubrication \nIdleness of   \nmotors \n\n \n  AW2 \u2013 Appendix Motor Bearings                       AW-3 Appendix W2 Maintenance of Motor Bearings (cont.)",
+        "node-26": "7. Re-install the cap of the re-lubrication device and the cover of \nthe drainage opening.  \n \n \n \nIf the motors are idle for a longer period of time,  the motor shaft \nshould be rotated once a month. Rotate the motor sh aft manu-\nally for at least 5 rotations and bring to a stop i n a different posi-\ntion to the starting position. \nIf the motors have to be idle for more than 6 month s, the motor \nbearings must be re-lubricated before start-up. \nIf the motors have to be idle for more than 2 years , the motor \nbearings must be replaced. \n \n Motor bearings r e-\nquiring re-\nlubrication \nProcedure for re -\nlubrication \nIdleness of   \nmotors \n\n \n  AW2 \u2013 Appendix Motor Bearings                       AW-3 Appendix W2 Maintenance of Motor Bearings (cont.) \n \nThe details of the bearings installed by us and the  lubrication \nquantities to be filled (only for WEG motors) are l isted below: \n   \nSize Output (kW) A-side B-side Grease \nquantity \n(grams) Re-\nlubrica-\ntion in-\nterval \n90 1,5 / 2,2 6205 ZZ 6204 ZZ - - \n112 3,7 6307 ZZ 6206 ZZ - - \n112 3 / 4 / 5,5 6207 ZZ 6206 ZZ - - \n132 4 / 4,5 / 5,5 / 7,5 / 9 / 1-11  6308 ZZ 6207 ZZ - - \n160 11 / 15 6309 C3 6209 Z-C3 - - \n180 18,5 / 22 6311 C3 6211 Z-C3 - - \n200 30 / 37 6312 C3 6212 Z-C3 - - \n225 45 6314 C3 6314 C3 27 5000 \n250 55 6314 C3 6314 C3 27 5000 \n280 75 / 85 / 90 / 1-110 6314 C3 6314 C3 27 5000 \n315 110 / 132 / 160 6314 C3 6314 C3 27 5000 \nTable 1 \n\n                    Appendix W 3                    Maintenance Work     Manual\n RENNER GmbH\nOperat. \nHoursOilfilter \ncartridgecleaned\nreplacedreplaced\ndifferential pressure\ndelta p in bar\nreplaced\nchecked\nreplenished\nreplaced\nchecked\nretensioned\nreplaced\nregreased\nreplaced\nPlease tick the work which has been done and/or record measured data which confirm by signature .Signature and date Oilfilling Drive beltAirfilter \ncartridgeOilseparator cartridgeMotor bearings\nA + B Sideother service work\n(take another sheet if required)\nAW \u2013 Appendix Maintenance Work                                                                  AW  3\n\n \nAADS - Appendix Pressure Switch  AADS-1 \nAppendix ADS \nEnd Pessure Switch \nThis chapter provides a brief overview of all the p ressure switch \nfunctions. \n \n \n \nWarning! \n \nFrom the factory side, the pressure switch is ideal ly adjusted to \nthe respective machine configuration. Any change to  the default \nsettings can have serious consequences on the servi ce life of \nyour system. The legal warranty will expire if maki ng changes \nthat have not been discussed in advance with RENNER  Kom-\npressoren GmbH. \n \n \nThe pressure switch controls the switch-on and swit ch-off pres-\nsure applicable for the respective system. The diff erence be-\ntween switch-on and switch-off pressure is generall y 1.5 bar. \nFor changes to the switch-off pressure settings mad e on the \nfactory side, the safety valve is activated if the the permitted \nmaximum pressure is exceeded. \n \n \n \n \nContinued overleaf \n \n \n \n \n \n \n Contents \n \nFunction \n\n \nAADS - Appendix Pressure Switch  AADS-2 \nAppendix ADS \nEnd Pressure Switch \n \n\n \n  AKT \u2013 Operating instruction for refrigerant drier       AKT-1 Appendix KT \nOperating instructions  \nfor the refrigerant drier \nIn this chapter you receive a brief overview for th e optionally \ninstalled refrigerant drier. \n \n \n \nPlease follow the refrigerant drier safety instruct ions found in \nthe separate operating manual. It is particularly d angerous to \nbreath-in the cooling steam or get in contact with the cooling \nagents.",
+        "node-27": "The diff erence be-\ntween switch-on and switch-off pressure is generall y 1.5 bar. \nFor changes to the switch-off pressure settings mad e on the \nfactory side, the safety valve is activated if the the permitted \nmaximum pressure is exceeded. \n \n \n \n \nContinued overleaf \n \n \n \n \n \n \n Contents \n \nFunction \n\n \nAADS - Appendix Pressure Switch  AADS-2 \nAppendix ADS \nEnd Pressure Switch \n \n\n \n  AKT \u2013 Operating instruction for refrigerant drier       AKT-1 Appendix KT \nOperating instructions  \nfor the refrigerant drier \nIn this chapter you receive a brief overview for th e optionally \ninstalled refrigerant drier. \n \n \n \nPlease follow the refrigerant drier safety instruct ions found in \nthe separate operating manual. It is particularly d angerous to \nbreath-in the cooling steam or get in contact with the cooling \nagents. Smoking when working on the refrigerant dri er is pro-\nhibited, since the cooling agent will developpoison ous vapours \nwhen getting in touch with the glowing end of a cig arette or oth-\ner open flame (e.g. welding work). \n \n \n \nThe refrigerant air drier contains a cooling system  for cooling \nthe compressed air. The compressed air is also de-h umidified. \nThe condensate created here is discharged through a  conden-\nsate separator. \n \n \n \nMake sure that the air inlet and outlet is never im paired or \nblocked. Adequate distance must be maintained betwe en the \nventilation grids and room walls. \nPlease follow the figure in Chapter 2.3 and the inf ormation in \nChapter 2.3.1 of the Operating Manual of the refrig erant drier \nsupplier. \n \n \n \nAfter turning on the refrigerant drier, wait 5 minu tes until the \npressure has equalised. Only then, start the compre ssor. \n \n \n \n \n Content \nFunction \n \n\n \n  AKT \u2013 Operating instruction for refrigerant drier       AKT-2 Appendix KT refrigerant drier (cont.) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Figure  \nRefrigerant drier \n \nFigure  \ncontrol panel 1.) Compressed air inlet   6.) Electrical connectio ns \n2.) Compressed air outlet   7.) Maintenance access \n3.) Cooling air inlet    8.) Fixing holes \n4.) Cooling air outlet    E100.) Switch-on  \n5.) Steam trap     EICA.) Electronic regulator \n            \n \n\n \n  AKT \u2013 Operating instruction for refrigerant drier       AKT-3 Appendix KT refrigerant drier (cont.) \n \nItem Description Function \n1 10x green LED Pressure dew point indicator \n \n2 Green area Pressure dew point normal \n3 Red area Pressure dew point is too high \n4 Green LED Compressed air drier is turned on  \nIn the setting mode the blinking \nLED shows which data will be \ndisplayed \n5 Yellow LED Condensate magnetic valve is \nactive \n6 Yellow LED Ventilator is turned on \n7 Setting switch Multi-function key for editing the \nparameter. \nPress the button for 2 sec-\nonds: \nSwitch from display to setting \nmode \nBriefly press the button: \nSwitch between menues \nPress button together with up \nkey: \nCurrent setting is changed \n8 Up key Up / deflector test \nPressing the up key will exit the \nsetting mode \n \n \n \n \n \n \n \n \n \n \n \n \n Electronic  \nRegulator \n\n \n  AKT \u2013 Operating instruction for refrigerant drier       AKT-4 Appendix KT refrigerant drier (cont.) \n \nBefore completing any maintenance work, please foll ow all \nsafety provisions for electrical systems and electr ical de-\nvices (see Chapter 1 of the original operating manu al). \n \n \nThe compressed air refrigerant drier must be mainai ned at dif-\nferent intervals. The maintenance intervals heavily  depend on \nthe utilisation type and the conditions oft he inst allation site. The \nfollowing maintenance work must be completed daily:  \n \n1. Check the function of the steam trap; check if w ater is \ndrained; valve test (manual drain condensation): \n \n2. Check the pressure dew point display; for deviat ions \nfrom the normal range, see chapter 5.2.2 and 5.2.3 in \nthe original operating manual \n \n3. Check the compressor for contamination \n \n \nSpecific notes about other maintenance intervals an d work \ncan be found in the manufacturer original operating  manual \nunder Point 5 Maintenance. Maintenance \n\n \nAD App Air receiver                     AD-1 \nAppendix AD \nCompressed air receiver  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nNo.",
+        "node-28": "The compressed air refrigerant drier must be mainai ned at dif-\nferent intervals. The maintenance intervals heavily  depend on \nthe utilisation type and the conditions oft he inst allation site. The \nfollowing maintenance work must be completed daily:  \n \n1. Check the function of the steam trap; check if w ater is \ndrained; valve test (manual drain condensation): \n \n2. Check the pressure dew point display; for deviat ions \nfrom the normal range, see chapter 5.2.2 and 5.2.3 in \nthe original operating manual \n \n3. Check the compressor for contamination \n \n \nSpecific notes about other maintenance intervals an d work \ncan be found in the manufacturer original operating  manual \nunder Point 5 Maintenance. Maintenance \n\n \nAD App Air receiver                     AD-1 \nAppendix AD \nCompressed air receiver  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nNo. Description Function \n1 Connection from  \ncompressor Inlet of compressed air into \nthe air receiver \n2 Safety valve Protects the air receiver \nagainst too high a pressure \n3 Compressed air outlet Outlet of compressed air to \nthe c.a. system \n4 Condensate drain Drains the condensate for \ncollection \n \n\u2022 Please observe the regional laws and regulations f or the  \ncontrol of air receivers and notice the periodic in spections  \n\u2022 Please take care for a condensate drain system \n\u2022 Please take the necessary mesures as to discharge t he  \ncondensate if no automatic system  \n \nCaution! \nTo grant the functionality of the air receivers, al l flexible hoses of the \nreceivers have to be changed after 2 years at the l atest. This affects \nespecially the 2 x 90l air receivers. Both receiver s have to be able to \nbe discharged separately. \nThe number of load changes in the air receiver shou ld not be too high. \nTherefore, the compressor is not disconnected from the mains and do \nnot let the pressure in the receiver fall too low. (purchase quantity <  \ndelivery quantity)  \n   \n      Illustration: \nair receiver \nDescription \nof air receiver 1 2 \n3 \n4"
+    },
+    "relevant_docs": {
+        "49a0803c-1408-4220-99f6-d49c1874e257": [
+            "node-0"
+        ],
+        "24fc1ed9-8d75-4d0e-8b33-876011a40908": [
+            "node-0"
+        ],
+        "826e74a7-36b6-45f6-ace5-f49c69d75a30": [
+            "node-0"
+        ],
+        "3ae675ff-a4d6-48f3-8ef8-771442790572": [
+            "node-0"
+        ],
+        "68710c5c-b96b-4a58-9558-87594db2fadb": [
+            "node-0"
+        ],
+        "49b1c9bf-1c01-4bf0-945b-623258b7ad26": [
+            "node-0"
+        ],
+        "7b21291c-a0a6-4a26-91f0-ab491c9de1a8": [
+            "node-0"
+        ],
+        "30bc1cde-404d-458f-8655-d4a14cc01a65": [
+            "node-0"
+        ],
+        "1650a89d-9e6b-40bf-8a0d-36f9f72a0d2c": [
+            "node-0"
+        ],
+        "5f667f1c-7091-4d45-b4ca-11c314dbcb91": [
+            "node-0"
+        ],
+        "a7bd0a79-f4ac-4be9-a4a4-71d513537e41": [
+            "node-1"
+        ],
+        "2966e189-2e61-4d9c-9785-c9430f64d8f5": [
+            "node-1"
+        ],
+        "550b943a-c6f8-4f53-9386-6bc87d980627": [
+            "node-1"
+        ],
+        "34e4d7f4-207f-4d83-b0ae-20e4d79c9c4d": [
+            "node-1"
+        ],
+        "7dd836f2-d02a-4a17-a04a-fb2eb9dcc494": [
+            "node-1"
+        ],
+        "0e413ca4-32bd-4d96-827d-a7a010f5c277": [
+            "node-1"
+        ],
+        "3fd1758e-e37c-4f92-83c6-dd7e0ebdb2c4": [
+            "node-1"
+        ],
+        "1de576ab-bee2-4e02-9720-28e52fa0765a": [
+            "node-1"
+        ],
+        "9497ab21-11f6-42ef-b28c-b7ed5b76a8ba": [
+            "node-1"
+        ],
+        "c67dd765-1130-4746-934f-2689f347e5f6": [
+            "node-2"
+        ],
+        "91a1ecfe-2742-4f0b-b02f-938d5c708b3a": [
+            "node-2"
+        ],
+        "79b3bd73-83fc-4dac-9d24-f57553de313a": [
+            "node-2"
+        ],
+        "98f78cfb-1179-403d-b56e-7b58c331c235": [
+            "node-2"
+        ],
+        "9cd368da-9129-4179-81ad-bdffcadc307a": [
+            "node-2"
+        ],
+        "d7f630b9-1ae8-40ec-be8b-c3169fa2009e": [
+            "node-2"
+        ],
+        "26a8d917-38ad-464c-ac31-c1d5fd84fe6c": [
+            "node-2"
+        ],
+        "fa7124d0-bf41-4c67-92f7-a5c14d063699": [
+            "node-2"
+        ],
+        "6b702e3e-e61d-4d87-9814-a20eb30125bb": [
+            "node-2"
+        ],
+        "19f8c39d-90eb-4377-9f2f-03d6b4441eac": [
+            "node-2"
+        ],
+        "c1f614d1-1853-48b3-a119-53ee9f8031dc": [
+            "node-3"
+        ],
+        "5a5e951b-c6dd-4657-a61f-4fda6cd341b7": [
+            "node-4"
+        ],
+        "ab9660e9-6ecd-4a22-a0c8-6aa82ed5784e": [
+            "node-4"
+        ],
+        "bb453c1a-6942-4e96-a94d-4d2640d46fe1": [
+            "node-4"
+        ],
+        "88bccca0-e46e-4129-b60e-b3222c0e6ca0": [
+            "node-4"
+        ],
+        "70e94d59-4473-405a-9e73-528886ef7686": [
+            "node-4"
+        ],
+        "72db6bb8-c0c3-4791-a924-810c57e42167": [
+            "node-5"
+        ],
+        "f1add9b1-2ae3-4b2f-92e2-8bb913c31c7a": [
+            "node-5"
+        ],
+        "4a2a1bdf-685d-45f0-b74e-065952be15cf": [
+            "node-5"
+        ],
+        "ee49a9e7-c8ed-413e-a939-363dfc670c3d": [
+            "node-5"
+        ],
+        "523e38fc-c133-437f-a663-92a976d289f0": [
+            "node-5"
+        ],
+        "0ad8102f-75c9-42df-af66-ac3bb6af0f95": [
+            "node-5"
+        ],
+        "b11c01f5-3752-4d26-9b4f-eea5ac9f652d": [
+            "node-5"
+        ],
+        "6032bf87-4f75-48e0-8891-7f329939397a": [
+            "node-5"
+        ],
+        "1e05a296-fadf-43e6-9e6b-099b3da31a55": [
+            "node-5"
+        ],
+        "09d975fb-22cd-4174-9a95-9a790de8b585": [
+            "node-5"
+        ],
+        "bfdc159f-0752-42ee-bc28-7b51eed64493": [
+            "node-6"
+        ],
+        "5d29d0a6-aaa8-4e3e-948c-016418167d61": [
+            "node-6"
+        ],
+        "39ea1254-0d52-4b18-ac85-d91cf0047833": [
+            "node-6"
+        ],
+        "08460d35-9920-4c36-9fb8-35373359f270": [
+            "node-6"
+        ],
+        "819c1e4b-9ab1-4e13-9c3c-1bc1b3aff2cd": [
+            "node-6"
+        ],
+        "9791d732-c457-4962-91cb-69051de41bec": [
+            "node-6"
+        ],
+        "a8da1aa7-f09e-41d1-9eec-5ea5303742c7": [
+            "node-6"
+        ],
+        "7eb3439c-2188-4c0f-8186-f2dd5b326a5b": [
+            "node-6"
+        ],
+        "842d0ed8-86d7-4bf0-9c10-beffd0b2dbaf": [
+            "node-6"
+        ],
+        "7e7c3a97-af63-4619-b9b3-8d7ca5f2443f": [
+            "node-6"
+        ],
+        "2bd7683b-1f7b-4448-85b5-4e6f99b0786f": [
+            "node-7"
+        ],
+        "d3a29d46-86c0-402d-b34a-06e345a982ca": [
+            "node-7"
+        ],
+        "14c961fe-721c-4ca3-836a-280508e463b7": [
+            "node-7"
+        ],
+        "a84ecf04-504b-4903-8bd4-2b350819d7ee": [
+            "node-7"
+        ],
+        "243015b9-af3c-4f3d-9d1a-eef70aba5418": [
+            "node-7"
+        ],
+        "1cc207fd-2124-4de6-bf11-9e5ce73c13f8": [
+            "node-7"
+        ],
+        "4d2b9c7f-bb00-4325-ae62-0c7ad6f8bcb9": [
+            "node-7"
+        ],
+        "a24e9129-71b7-4067-8e59-84095382e421": [
+            "node-7"
+        ],
+        "0eafe2c3-0d46-41ef-af02-06e711901207": [
+            "node-7"
+        ],
+        "de77e9ab-074a-4d2c-a9a3-9a6cf3668787": [
+            "node-7"
+        ],
+        "881b7cc0-fd08-4f5b-b333-f866f218b49c": [
+            "node-8"
+        ],
+        "fef64ad6-d016-4182-8ee5-319c62550299": [
+            "node-8"
+        ],
+        "96239ca6-1942-4b89-9f6b-4acb3e9d08d8": [
+            "node-8"
+        ],
+        "0a2819dc-e186-46a9-9ea4-eda4f023fc29": [
+            "node-8"
+        ],
+        "be0fbfad-abc3-47cf-9dec-b7c205e9921a": [
+            "node-8"
+        ],
+        "22900efa-60eb-4f5c-b31d-1482fa43b20f": [
+            "node-9"
+        ],
+        "07c79be0-87fc-49de-8162-fcf97096cada": [
+            "node-9"
+        ],
+        "72f60956-b233-48dd-87a8-0ab4a29ae870": [
+            "node-9"
+        ],
+        "6b32b9ce-6500-45f9-a19f-8e9794f57bb5": [
+            "node-9"
+        ],
+        "07eb8a98-d11e-4400-9f31-d7e9d7a29c2d": [
+            "node-9"
+        ],
+        "fd2a445b-46d0-49d6-aff2-4c7d7febe2f4": [
+            "node-9"
+        ],
+        "aa2dd6b6-f70d-435a-a711-614d7b61ae52": [
+            "node-9"
+        ],
+        "2563b175-d2df-4872-8290-0a9631d7239f": [
+            "node-9"
+        ],
+        "90eb28be-b02d-4eac-8e6c-e428736f1154": [
+            "node-9"
+        ],
+        "a9004367-8fea-4d20-817e-7dc45461fa1a": [
+            "node-9"
+        ],
+        "518c7dab-5f7e-4e38-85ff-71194b61c42f": [
+            "node-10"
+        ],
+        "e65d8fd2-a872-41e0-ade1-0e808f77300a": [
+            "node-10"
+        ],
+        "4ff50c4e-31ac-45d0-b322-4e0d7de11780": [
+            "node-10"
+        ],
+        "cb7105ef-c5a6-4f57-b73a-fed69c3c5409": [
+            "node-10"
+        ],
+        "2d053e65-c04a-4609-93c8-2e8f5659ace4": [
+            "node-10"
+        ],
+        "d468d74d-5e57-4775-9d24-dc1465f2f4e4": [
+            "node-10"
+        ],
+        "70bf33c9-9b1c-4c69-aefc-ba2fafc1bf8b": [
+            "node-10"
+        ],
+        "ad3bd12c-bb4e-4915-8d02-b02c4598d9e9": [
+            "node-10"
+        ],
+        "a539da69-8c7d-4068-b839-41e3d79ce7e2": [
+            "node-10"
+        ],
+        "580104c7-9f00-4c3e-a85c-48a8e7101c7e": [
+            "node-10"
+        ],
+        "098ac19d-3172-4188-869b-8530e906866e": [
+            "node-11"
+        ],
+        "c3ed30fa-c9b0-46c8-9843-b55e67cbb0c3": [
+            "node-11"
+        ],
+        "0bd1b6ea-4c93-4bb3-97f9-13dcb7872aa5": [
+            "node-11"
+        ],
+        "496a9d9e-7237-45b1-8d0b-13bd1bd2859f": [
+            "node-11"
+        ],
+        "497dae6a-a316-4c66-a5c4-65daa5d94071": [
+            "node-11"
+        ],
+        "932cf41d-e63a-4865-8285-965f51a502cd": [
+            "node-11"
+        ],
+        "0622a917-6309-489f-a7b8-3c7d1f921fbc": [
+            "node-11"
+        ],
+        "05316d96-3d65-4827-b072-df5ff58adefb": [
+            "node-11"
+        ],
+        "decef532-7934-477a-96ef-6fdbc857e2d1": [
+            "node-11"
+        ],
+        "eebcd2aa-98b6-4aef-8eae-1efd35f823ad": [
+            "node-11"
+        ],
+        "084113c8-3204-4313-9a35-3b344b756b0e": [
+            "node-12"
+        ],
+        "a6bff2cf-6fbf-4c92-b817-fd48c96f867a": [
+            "node-12"
+        ],
+        "071df057-5ede-494e-a2d6-f10c602b016b": [
+            "node-12"
+        ],
+        "35daf77b-c3d2-4a5e-b912-04bf35dbdd04": [
+            "node-12"
+        ],
+        "3d4cb8dc-b30c-4be7-a9d9-cad74dfef0d3": [
+            "node-12"
+        ],
+        "7ca17d86-7c9b-4ff6-bfb6-c22a7aad92fa": [
+            "node-12"
+        ],
+        "d2a55316-4838-4ee0-822b-c065a3e2d320": [
+            "node-12"
+        ],
+        "59125973-5d17-491a-9947-ef53faf15237": [
+            "node-12"
+        ],
+        "94c2ee90-b971-43ce-811e-cd911273626c": [
+            "node-12"
+        ],
+        "e402e520-dd35-4a14-8d80-6957ba8fe88e": [
+            "node-12"
+        ],
+        "f204ca53-b207-4dc7-a0a3-e1a54d76e81c": [
+            "node-13"
+        ],
+        "313d1329-2476-437b-8cdb-6f7562227c27": [
+            "node-14"
+        ],
+        "84b8efab-f91b-446e-8f59-5e27f0d12e76": [
+            "node-14"
+        ],
+        "cb650fc6-0302-4667-8819-8e54da96e66d": [
+            "node-14"
+        ],
+        "dcff5852-e1f8-41ae-93cf-c07b6e792efb": [
+            "node-14"
+        ],
+        "f46dfd02-31bb-43d1-aeda-63cbcf54ae9e": [
+            "node-14"
+        ],
+        "82d39bc9-a448-4286-b06c-8f3f2b744668": [
+            "node-14"
+        ],
+        "499a400d-df12-4de9-863e-df5730e2587b": [
+            "node-14"
+        ],
+        "6cdc0be3-5ab1-4157-b1b8-c6e39ecd2dc0": [
+            "node-14"
+        ],
+        "bbe597f0-cf7d-4ff8-9246-ffef2885d5a3": [
+            "node-14"
+        ],
+        "89fce12c-05ca-47b3-9c78-894234c863ed": [
+            "node-14"
+        ],
+        "1f3447c8-0bd8-409b-a5b2-997c93efb49a": [
+            "node-15"
+        ],
+        "c2d230a5-439b-4003-8ec2-270054a8003a": [
+            "node-15"
+        ],
+        "5552e885-b1ae-4741-8e16-d0ddeaae83f5": [
+            "node-15"
+        ],
+        "c10a6181-dd03-4510-9b68-f6472312c4dc": [
+            "node-15"
+        ],
+        "656043c1-0623-4750-b434-bbc00656041a": [
+            "node-15"
+        ],
+        "9e8c93c1-d5ac-4513-b8d9-031f938aedd6": [
+            "node-16"
+        ],
+        "0368f128-ba72-49f3-a51c-83d8ce2013d4": [
+            "node-16"
+        ],
+        "f5cc3767-aa93-4235-9337-bc8a8038fe29": [
+            "node-16"
+        ],
+        "426d606b-5108-4f5d-abe7-322a6fb87f02": [
+            "node-16"
+        ],
+        "4c215306-3513-4c4e-ac18-b9d07c844b52": [
+            "node-16"
+        ],
+        "2d826906-f2bd-4f79-9702-92716df841d3": [
+            "node-16"
+        ],
+        "6596da20-92fc-4430-83bd-954e59206bc7": [
+            "node-16"
+        ],
+        "530915f6-1714-4a79-a1ab-25b714a58cc9": [
+            "node-16"
+        ],
+        "819e69ec-69a5-4cea-8b37-1f37ec89f7bf": [
+            "node-16"
+        ],
+        "e5d348b5-a0d1-453b-9b33-223c85abf158": [
+            "node-16"
+        ],
+        "0b70de90-7499-4649-9d0c-e0a8cbbe5e24": [
+            "node-17"
+        ],
+        "1108e611-4d4a-479f-83d8-f6e29a8c875d": [
+            "node-17"
+        ],
+        "a8ff395f-4d5d-41d0-802c-cd107e5aab1d": [
+            "node-17"
+        ],
+        "4f15a33f-ee38-478e-ba35-47cac5c3e4f8": [
+            "node-17"
+        ],
+        "24e5d377-5de4-4bb4-b13c-11b07395db4a": [
+            "node-17"
+        ],
+        "60b1edc0-7ea4-4766-96cd-c39c97684c93": [
+            "node-17"
+        ],
+        "cdec596d-19a0-4e0f-8da2-62996c7b03b4": [
+            "node-17"
+        ],
+        "8c565d77-1141-45f1-8126-7a2907a92824": [
+            "node-18"
+        ],
+        "cef857ac-2fc5-437b-b95f-3554aaa98aa3": [
+            "node-18"
+        ],
+        "726fffe7-1bdd-40e6-9ea4-04c389cf79e8": [
+            "node-18"
+        ],
+        "da285df9-a2fe-4588-b810-d453935ec244": [
+            "node-18"
+        ],
+        "80752e43-2b14-4d0d-9578-0495106d6391": [
+            "node-18"
+        ],
+        "9d54fee3-6acd-4f93-9dc6-7b3120706a27": [
+            "node-18"
+        ],
+        "89dd2d7c-5ad8-4b28-ba8f-c8d0054bd364": [
+            "node-18"
+        ],
+        "d717730c-c9dd-466e-9fc3-b59c1c7af950": [
+            "node-19"
+        ],
+        "66ce9b6a-a229-4b0c-9f87-911d6c0e267a": [
+            "node-20"
+        ],
+        "ba9b1a10-1b53-438b-81c0-2116bd02c27f": [
+            "node-20"
+        ],
+        "68d6d75a-89fd-49e3-b296-bd3f6bcb8c56": [
+            "node-20"
+        ],
+        "1b10aa4e-66f1-4f9f-bed2-96b9684f81a1": [
+            "node-20"
+        ],
+        "2cf59ab0-c74d-4157-9cbd-f33659684cae": [
+            "node-20"
+        ],
+        "d3d158b1-0d5b-4eed-b4e0-ec1800422c8f": [
+            "node-20"
+        ],
+        "f3045a60-dba3-4163-88b1-63d972d5f400": [
+            "node-20"
+        ],
+        "51a47665-a072-49e7-bf6c-68eb8d956789": [
+            "node-20"
+        ],
+        "f758f70b-b95d-4dce-ac41-965d5cbbfb2c": [
+            "node-20"
+        ],
+        "2968127c-b897-4fe6-bb53-b400fb51bb0f": [
+            "node-20"
+        ],
+        "78868595-07c7-4b42-9f68-732ecb6f4510": [
+            "node-21"
+        ],
+        "01d2bbdd-d00f-4194-9ed6-a91fcc6c79b3": [
+            "node-21"
+        ],
+        "2aa78ead-bc3b-4bc6-a0c8-702a656323de": [
+            "node-21"
+        ],
+        "aaa91e71-e095-432f-9c31-dcfa3471c7c2": [
+            "node-21"
+        ],
+        "11a8a1e1-0c08-4b9e-8418-dd20ebb3fab9": [
+            "node-21"
+        ],
+        "098feaa5-c4b3-4aee-ba3d-772bb90e68a2": [
+            "node-21"
+        ],
+        "d2aaf3d5-d830-4ffa-9b15-84c08a4ef756": [
+            "node-21"
+        ],
+        "7615fbb1-cd55-4bfd-a4ae-8ddf19bcda44": [
+            "node-21"
+        ],
+        "446fef8d-fcaa-4921-84b2-3fe9d624f796": [
+            "node-21"
+        ],
+        "712b25da-3950-422d-b1f4-fedb3da182c6": [
+            "node-21"
+        ],
+        "07e7b7b0-cbbf-467d-9eb4-2225a06c7643": [
+            "node-22"
+        ],
+        "b92d451a-8f05-41d4-a59c-814bf42db737": [
+            "node-22"
+        ],
+        "5c96dbf1-27f9-4fcf-adf0-abda7ca8a353": [
+            "node-22"
+        ],
+        "7ddd3578-8add-43ec-887d-5d3adc4eda87": [
+            "node-22"
+        ],
+        "98045519-6cec-4201-93fd-c7f8b087509e": [
+            "node-22"
+        ],
+        "a017a790-5058-4aa1-befd-a75f5a38d271": [
+            "node-22"
+        ],
+        "4f588a4d-bbe3-4e54-9855-1f89bc3c9b9d": [
+            "node-22"
+        ],
+        "0f5ca7e6-494d-4223-b9b7-9e1f49cfc66b": [
+            "node-22"
+        ],
+        "e16c9027-b7d4-46ea-8bd3-174ed96fa99f": [
+            "node-22"
+        ],
+        "f9676db4-38b3-4597-b68c-d80de9ebd897": [
+            "node-22"
+        ],
+        "1bd60e46-c3ec-4a1f-bf13-09f2aeddd4c5": [
+            "node-23"
+        ],
+        "4e56a08c-4aec-4db5-af09-d49b3e6f859c": [
+            "node-23"
+        ],
+        "5606ff7d-6283-4d9d-aedf-b915dcfdf0f9": [
+            "node-23"
+        ],
+        "557867a9-e787-4d8a-afc8-88a590b547ea": [
+            "node-23"
+        ],
+        "ae7e6db5-194a-4fb8-b0ed-a9c44330f26c": [
+            "node-23"
+        ],
+        "107ebb29-60cd-4cd3-b134-d071fc39207e": [
+            "node-23"
+        ],
+        "2665b903-d2e6-41b7-bcfc-cb28394bfbb8": [
+            "node-23"
+        ],
+        "4a5c0510-432a-4ed6-b431-d6c2d1b9b3e8": [
+            "node-23"
+        ],
+        "919662c5-5ff0-49e1-b149-be8ef24a91f2": [
+            "node-23"
+        ],
+        "6582473f-0931-4672-9e10-6743e8436b33": [
+            "node-23"
+        ],
+        "05abf491-1fdb-4217-b8a4-b7112ef08f4c": [
+            "node-24"
+        ],
+        "99d00d4c-355d-4c56-98a9-fb4979b8c97c": [
+            "node-24"
+        ],
+        "8026ed77-8b0d-4341-a292-ae7589ed04b0": [
+            "node-24"
+        ],
+        "34508af8-4891-4104-bf09-cb8bd2cc6d57": [
+            "node-24"
+        ],
+        "762df2ac-3e9a-49f2-b1b9-994234b7c249": [
+            "node-24"
+        ],
+        "4d67e716-7c2b-4e38-ac3e-77ebff1b9e8f": [
+            "node-24"
+        ],
+        "e936870d-134b-4ee0-a6fb-3bb335e4d7ca": [
+            "node-24"
+        ],
+        "7cdf5b03-1eca-4a87-a40e-a4d07cd2e5ce": [
+            "node-24"
+        ],
+        "1928264a-0ed2-414a-9d3a-7fdbc10ff180": [
+            "node-24"
+        ],
+        "3a484dc5-7fa3-49fc-a08c-6f11686951ab": [
+            "node-24"
+        ],
+        "f9cc0d93-863c-477d-83fe-4fd4fa0a9991": [
+            "node-25"
+        ],
+        "06ecbc16-01db-4f7e-930a-4505db8a1f37": [
+            "node-25"
+        ],
+        "7fe86392-36b1-4632-97a1-fa3cd274d20d": [
+            "node-25"
+        ],
+        "441cbb69-fd1b-41c7-ab1b-f4197f2bdf2b": [
+            "node-25"
+        ],
+        "50495932-e9d2-4864-97e2-f8528419bdb1": [
+            "node-25"
+        ],
+        "e5780827-cbaa-4c92-bce2-4c87c7404919": [
+            "node-26"
+        ],
+        "eca2b883-eded-4991-97f2-e958d820de3d": [
+            "node-26"
+        ],
+        "e42a697c-806f-42b6-b42d-5cc880b8b335": [
+            "node-26"
+        ],
+        "e0ff9212-ed26-4257-80d8-a5d3d227157a": [
+            "node-26"
+        ],
+        "dbbcb383-d7ce-48da-b576-13377343bc69": [
+            "node-26"
+        ],
+        "8cfd16a5-60de-4368-ba4c-ecf969873da3": [
+            "node-27"
+        ],
+        "6b897645-1a03-4e79-9a84-2cbe31c2b7b2": [
+            "node-27"
+        ],
+        "923ce938-9937-4923-992c-82a993180a47": [
+            "node-27"
+        ],
+        "fafb2452-cedf-42d3-ad6a-f08c12e2d602": [
+            "node-27"
+        ],
+        "34e8cbce-6687-4d52-bae3-46d71ba71833": [
+            "node-27"
+        ],
+        "d521e0c3-92a5-487a-b8c1-c9b732182575": [
+            "node-27"
+        ],
+        "1f15d6c7-d4f9-4cb2-8729-9a589a8c85cc": [
+            "node-27"
+        ],
+        "a1714c02-6ef0-4426-8525-19d06465396a": [
+            "node-27"
+        ],
+        "f82ab5d4-774b-420d-a521-7096f68674b6": [
+            "node-27"
+        ],
+        "3a907db4-54a6-4ce8-8c66-f4a0dda1edba": [
+            "node-27"
+        ],
+        "667e3dc4-8d5f-45c1-8ba6-caa3ec9c98e2": [
+            "node-28"
+        ],
+        "a34cd442-be30-4609-bdc1-6f2e292e6195": [
+            "node-28"
+        ],
+        "f7ff443d-ffde-4329-b0b8-b12003d9bfaa": [
+            "node-28"
+        ],
+        "2b50541c-ee31-47a4-aad6-b8bb0fdca280": [
+            "node-28"
+        ],
+        "9cd20b92-beba-43af-99df-104c909dedb7": [
+            "node-28"
+        ],
+        "6900e0a7-c937-4fd6-b67f-afb468ecac39": [
+            "node-28"
+        ],
+        "30108359-51b5-4ec2-a0ed-58fcbec0ccd7": [
+            "node-28"
+        ],
+        "0d9cd255-1b07-4639-ad04-14f6f69600d5": [
+            "node-28"
+        ],
+        "563f3c8e-2f0a-48f7-acb8-c1c497e6302d": [
+            "node-28"
+        ],
+        "43e8ec9e-02ac-4e98-9b30-cb62987cf7a1": [
+            "node-28"
+        ]
+    },
+    "mode": "text"
+}

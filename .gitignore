@@ -1,0 +1,8 @@
+# .gitignore
+.env
+.ipynb
+.ipynb_checkpoints
+__pycache__
+*.pyc
+.dockerignore
+chroma_db/

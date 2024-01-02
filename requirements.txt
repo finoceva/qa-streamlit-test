@@ -1,0 +1,19 @@
+camelot_py==0.10.1
+chromadb==0.4.21
+datasets==2.16.0
+langchain==0.0.353
+llama_index==0.9.24
+nest_asyncio==1.5.8
+openai==1.6.1
+pandas==2.1.4
+pinecone_client==2.2.4
+python-dotenv==1.0.0
+qdrant_client==1.7.0
+streamlit==1.29.0
+tiktoken==0.5.2
+torch==1.12.1+cpu
+-f https://download.pytorch.org/whl/cpu/torch_stable.html
+tqdm==4.66.1
+transformers==4.36.2
+opencv-python-headless
+cohere
