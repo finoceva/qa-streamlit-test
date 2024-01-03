@@ -5,9 +5,11 @@ Description: "Question Answering for Compressor Manual" is a Streamlit-based web
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qa-streamlit-test-c44c0e823dd8.herokuapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qa-streamlit-test-c44c0e823dd8.herokuapp.com/) https://qa-streamlit-test-c44c0e823dd8.herokuapp.com/
 
 ## Using the App
+
+![App Screenshot](/images/demo_app01.png)
 
 The "Question Answering for Compressor Manual" app is designed to be user-friendly and intuitive. Follow the steps below to interact with the app and get answers to your questions:
 
