@@ -11,7 +11,7 @@ Description: "Question Answering for Compressor Manual" is a Streamlit-based web
 
 Here's a screenshot of the app in action:
 
-![App Screenshot]([http://url-to-image.com/screenshot.png](https://drive.google.com/file/d/16lAevOUwFaGODAbsn4jTvUfldUwRgg8D/view?usp=drive_link))
+![App Screenshot](https://imgur.com/a/bxhlwGl)
 
 The "Question Answering for Compressor Manual" app is designed to be user-friendly and intuitive. Follow the steps below to interact with the app and get answers to your questions:
 
