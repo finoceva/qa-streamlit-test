@@ -9,6 +9,10 @@ Description: "Question Answering for Compressor Manual" is a Streamlit-based web
 
 ## Using the App
 
+Here's a screenshot of the app in action:
+
+![App Screenshot]([http://url-to-image.com/screenshot.png](https://drive.google.com/file/d/16lAevOUwFaGODAbsn4jTvUfldUwRgg8D/view?usp=drive_link))
+
 The "Question Answering for Compressor Manual" app is designed to be user-friendly and intuitive. Follow the steps below to interact with the app and get answers to your questions:
 
 ### Step 1: Select LLM Model
