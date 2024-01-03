@@ -1,6 +1,6 @@
 # .gitignore
 .env
-.ipynb
+*.ipynb
 .ipynb_checkpoints
 __pycache__
 *.pyc
