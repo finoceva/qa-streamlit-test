@@ -31,6 +31,17 @@ class Small2BigRetriever:
         top_k: int = 5,
         use_cohere: bool = False,
     ):
+        """
+        Initializes the Base class.
+
+        Args:
+            index (VectorStoreIndex): The vector store index.
+            service_context (ServiceContext): The service context.
+            nodes (List[Node]): The list of nodes.
+            name (str, optional): The name of the class. Defaults to "Base".
+            top_k (int, optional): The number of top results to retrieve. Defaults to 5.
+            use_cohere (bool, optional): Whether to use CohereRerank. Defaults to False.
+        """
         self.name = name
         self.index = index
         self.service_context = service_context

@@ -17,6 +17,18 @@ nest_asyncio.apply()
 def create_qa_testset(
     nodes, llm, eval_dataset_path="data/eval_testset.json", num_questions_per_chunk=2
 ):
+    """
+    Creates a QA testset by generating question-context pairs from the given nodes using the specified language model.
+
+    Args:
+        nodes (list): The list of nodes to generate the question-context pairs from.
+        llm (LanguageModel): The language model to use for generating the questions.
+        eval_dataset_path (str, optional): The path to save the generated QA testset JSON file. Default is "data/eval_testset.json".
+        num_questions_per_chunk (int, optional): The number of questions to generate per chunk of nodes. Default is 2.
+
+    Returns:
+        None
+    """
     qa_dataset = generate_question_context_pairs(
         nodes, llm=llm, num_questions_per_chunk=num_questions_per_chunk
     )
@@ -48,13 +60,21 @@ async def run_eval(
     eval_dataset_path: str = "data/eval_testset_v0.json",
     top_k: int = 5,
 ):
+    """
+    Run evaluation on a given index and nodes dictionary.
+
+    Args:
+        index_dict (Dict[str, BaseRetriever]): A dictionary mapping index names to retriever objects.
+        nodes_dict (Dict[str, Node]): A dictionary mapping node names to node objects.
+        eval_dataset_path (str, optional): Path to the evaluation dataset. Defaults to "data/eval_testset_v0.json".
+        top_k (int, optional): The number of retrievals to consider. Defaults to 5.
+
+    Returns:
+        List[Dict[str, Any]]: A list of dictionaries containing the evaluation results for each index.
+    """
     results = []
     eval_dataset = EmbeddingQAFinetuneDataset.from_json(eval_dataset_path)
     for name, index in index_dict.items():
-        # if name == "Hybrid":
-        #     bm25_retriever = get_bm25_retriever(nodes_dict, top_k)
-        #     vector_retriever = get_vector_retriever(index, top_k)
-        #     retriever = HybridRetriever(vector_retriever=vector_retriever, bm25_retriever=bm25_retriever)
         if name == "Small2Big":
             vector_index_chunk = index.as_retriever(similarity_top_k=top_k)
             retriever = RecursiveRetriever(

@@ -30,6 +30,16 @@ class Indexing:
         vector_db: Literal["Base", "Pinecone", "Qdrant", "Chroma"] = "Pinecone",
         index_name: str = DEFAULT_INDEX_NAME,
     ):
+        """
+        Initializes a new instance of the class.
+
+        Args:
+            llm (str): The language model to use.
+            embed_model_name (str): The name of the embedding model.
+            embed_model (Any): The embedding model.
+            vector_db (Literal["Base", "Pinecone", "Qdrant", "Chroma"], optional): The vector database to use. Defaults to "Pinecone".
+            index_name (str, optional): The name of the index. Defaults to DEFAULT_INDEX_NAME.
+        """
         self.vector_db = vector_db
         self.index_name = index_name
         self.llm = llm
@@ -77,7 +87,7 @@ class Indexing:
             self.qdrant_client = qdrant_client.QdrantClient(
                 url=os.getenv("QDRANT_URI"),
                 api_key=os.getenv("QDRANT_API_KEY"),
-                #prefer_grpc=True,
+                # prefer_grpc=True,
             )
 
     def indexing_and_storing(self, nodes: List[Node]):
@@ -122,21 +132,17 @@ class Indexing:
                 service_context=self.service_context,
                 storage_context=storage_context,
             )
-            # saving index to disk for chroma option
-            # if not os.path.exists("tmp/chroma_vector_index"):
-            #     os.makedirs("tmp/chroma_vector_index")
-            #     self.index_chunk.storage_context.persist(
-            #         persist_dir="/tmp/chroma_vector_index"
-            #     )
 
         elif self.vector_db == "Qdrant":
             vector_store = QdrantVectorStore(
                 client=self.qdrant_client,
                 collection_name=self.index_name,
-                #prefer_grpc=True,
+                # prefer_grpc=True,
             )
             storage_context = StorageContext.from_defaults(vector_store=vector_store)
             # create index
             self.index_chunk = VectorStoreIndex(
-                nodes, service_context=self.service_context, storage_context=storage_context
+                nodes,
+                service_context=self.service_context,
+                storage_context=storage_context,
             )

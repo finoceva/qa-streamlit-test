@@ -32,6 +32,16 @@ def ragas_evaluate(
     query_engine: RetrieverQueryEngine,
     eval_dataset_path: str = "eval_data/eval_testset_v0.json",
 ):
+    """
+    Evaluates the given query engine on a test dataset.
+
+    Args:
+        query_engine (RetrieverQueryEngine): The query engine to be evaluated.
+        eval_dataset_path (str, optional): The path to the evaluation dataset. Defaults to "eval_data/eval_testset_v0.json".
+
+    Returns:
+        pandas.DataFrame: The evaluation results, including the question, contexts, answer, context_precision, faithfulness, and answer_relevancy.
+    """
     # convert eval dataset to ragas format
     eval_dataset = load_dataset("json", data_files=eval_dataset_path)["train"][0]
     questions = []

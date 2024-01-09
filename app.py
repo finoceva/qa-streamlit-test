@@ -27,7 +27,6 @@ from misc.configuration import (
 )
 
 
-
 def get_retriever(
     api_key: str,
     llm_name: str,
@@ -74,13 +73,12 @@ def get_retriever(
         )
 
     service_context = ServiceContext.from_defaults(
-            llm=llm_model, embed_model=embed_model
-        )
+        llm=llm_model, embed_model=embed_model
+    )
     index_name = EMBEDDING_MODEL_NAMES_TO_INDEX_NAMES.get(embedding_model_name)
     if not index_name:
         index_name = embedding_model_name.split("/")[-1] + "_" + DEFAULT_INDEX_NAME
 
-    
     if EMBEDDING_DIMENSIONS.get(embedding_model_name) > 384:
         pinecone.init(
             api_key=os.getenv("PINECONE_API_KEY"),
@@ -176,9 +174,7 @@ def run():
     )
     if embedding_model_name.startswith("local:"):
         # Display a loading message
-        st.info(
-            "Loading the embedding model. It may take longer than expected."
-        )
+        st.info("Loading the embedding model. It may take longer than expected.")
 
         # Remove the loading message
         st.empty()

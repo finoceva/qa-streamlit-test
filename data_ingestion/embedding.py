@@ -9,7 +9,7 @@ from typing import Dict, List
 from misc.configuration import (
     OPENAI_API_KEY,
     OPENAI_API_BASE,
-)  # , ANYSCALE_API_BASE, ANYSCALE_API_KEY
+)
 
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
@@ -23,21 +23,25 @@ def get_embedding_model(
     },
     api_kwargs: Dict = {"api_key": OPENAI_API_KEY, "api_base": OPENAI_API_BASE},
 ):
+    """
+    Returns an embedding model based on the specified `embedding_model_name`.
+
+    Parameters:
+        embedding_model_name (str): The name of the embedding model to use.
+        model_kwargs (dict): Additional keyword arguments for the embedding model constructor. Default is `{"device": device}`.
+        encode_kwargs (dict): Additional keyword arguments for the embedding model's `encode` method. Default is `{"device": device, "batch_size": (100 if device == torch.device("cuda") else 1)}`.
+        api_kwargs (dict): Additional keyword arguments for the API client. Default is `{"api_key": OPENAI_API_KEY, "api_base": OPENAI_API_BASE}`.
+
+    Returns:
+        embedding_model: The embedding model based on the specified `embedding_model_name`.
+    """
     if embedding_model_name == "text-embedding-ada-002":
         embedding_model = OpenAIEmbedding(
             model=embedding_model_name,
             openai_api_base=api_kwargs.get("api_base", OPENAI_API_BASE),
             openai_api_key=api_kwargs.get("api_key", OPENAI_API_KEY),
         )
-    # elif embedding_model_name in []:
-    #     client = openai.OpenAI(
-    #             base_url = ANYSCALE_API_BASE,
-    #             api_key = ANYSCALE_API_KEY,
-    #         )
-    #     embedding_model = client.embeddings.create(
-    #             model="thenlper/gte-large",
-    #             input="Your text string goes here",
-    #         )
+
     elif embedding_model_name in [
         "local:BAAI/bge-small-en",
         "local:BAAI/bge-base-en",
@@ -56,6 +60,16 @@ def get_embedding_model(
 # TODO: Embed each node using a local embedding model / or via anyscale api
 class EmbedNodes:
     def __init__(self, model_name, batch_size=100):
+        """
+        Initializes the object with the given model name and batch size.
+
+        Parameters:
+            model_name (str): The name of the model to be used for embedding.
+            batch_size (int, optional): The batch size for encoding the embeddings. Default is 100.
+
+        Returns:
+            None
+        """
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.embedding_model = get_embedding_model(
             model_name,
